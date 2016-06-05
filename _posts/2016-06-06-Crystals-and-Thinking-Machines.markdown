@@ -26,7 +26,7 @@ This data in itself does not tell us much, lets try to plot this data and see wh
 Looking at the plot one can, with reasonable certainty, conclude that the price depends linearly on the data, or in math speak it follows this form
 
 
-$$P = wA + t$$
+$$ P = wA + t $$
 
 This line is what we call a regression line. Here $$P$$ is the price, $$A$$ is the area and $$w$$ and $$t$$ are two constants.  
 But what is the exact dependence? What are the exact values of $$w$$ and $$t$$? is the price twice the area? ten times the area? or 13.278 times the area? Before we try to answer those questions, we must have a way to measure how well the regression line describes the data. To do this we define an error function of the following form
