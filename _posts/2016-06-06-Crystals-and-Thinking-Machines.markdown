@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crystals and Thinking Machines"
+title:  "Thinking Machines"
 date:   2016-06-06 00:01:59 +0530
 ---
 Machine learning is used everywhere, it finds its application in a number of diverse fields ranging from targeted advertisements to disease diagnosis to Crystallography.  
