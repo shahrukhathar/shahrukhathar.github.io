@@ -21,7 +21,7 @@ These algorithms take in data and try to figure out patterns within them, once a
 
 This data in itself does not tell us much, lets try to plot this data and see what we get
 
-![ ](/images/figure_1.png)
+![ ](_posts/images/figure_1.png)
 
 Looking at the plot one can, with reasonable certainty, conclude that the price depends linearly on the data, or in math speak it follows this form
 
