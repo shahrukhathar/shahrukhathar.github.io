@@ -37,7 +37,7 @@ $$E = \sum_{i = 0}^{i = n}(P_{predicted}^{i} - P_{actual}^{i})^{2}$$
 
 
 Where $$n$$ is the number of data points, since we have eight data points, $$n = 8$$ in this case.
-If our predictions are perfect then this function will be zero, but if they are not then this function will take a value which is directly proportional to how bad our predictions are. The right values of $$w$$ and $$t$$ are the ones at which this function will assume its lowest value. This function can be minimized in a number of ways, we would be using a method called Gradient Descent. Gradient Descent works by finding the derivative of the parameters (in this case $$w$$ and $$t$$) with respect to the error function and then using it change the parameters such that it decreases the error. However, gradient descent is overkill for this simple problem, there exist exact formulae that give the values of $$w$$ and $$t$$. Using them, the values we get are $$w = 15.57$$ and $$t = 83.31$$. Plotting the regression line with the data we get
+If our predictions are perfect then this function will be zero, but if they are not then this function will take a value which is directly proportional to how bad our predictions are. The right values of $$w$$ and $$t$$ are the ones at which this function will assume its lowest value. One can minimize this function in a number of ways, and for this rather simple problem there exists an exact formulae that give the values of $$w$$ and $$t$$. Using them, the values we get are $$w = 15.57$$ and $$t = 83.31$$. Plotting the regression line with the data we get
 
 ![ ](/images/figure_1_Reg.png)
 
