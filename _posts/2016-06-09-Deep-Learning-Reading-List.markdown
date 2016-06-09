@@ -24,7 +24,7 @@ Here are a bunch of resources for learning about Deep Learning and its applicati
 2. [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 3. [Deep Learning by Microsoft Research](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
 
-# Blogs
+# Blogs and Websites
 1. [Andrej Karpathy's blog](http://karpathy.github.io/)
 2. [Christopher Olah's blog](http://colah.github.io/)
 3. [Eugenio Culurciello's blog](http://culurciello.github.io/)
@@ -34,6 +34,8 @@ Here are a bunch of resources for learning about Deep Learning and its applicati
 7. [Wild ML](http://www.wildml.com/)
 8. [Deeplearning.net](http://deeplearning.net/)
 9. [Tombone's Computer Vision Blog](http://www.computervisionblog.com/)
+10. [UFDL Tutorial](http://ufldl.stanford.edu/tutorial/)
 
 # More Reading Lists
 1. [Priyaank's reading list](https://github.com/priyaank/deep-learning)
+2. [J Mozah's reading list](http://jmozah.github.io/links/)
