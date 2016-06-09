@@ -32,7 +32,8 @@ Here are a bunch of resources for learning about Deep Learning and its applicati
 5. [I am trask](http://iamtrask.github.io/)
 6. [Jonas Degrave's blog](http://317070.github.io/)
 7. [Wild ML](http://www.wildml.com/)
-7. [Deeplearning.net](http://deeplearning.net/)
+8. [Deeplearning.net](http://deeplearning.net/)
+9. [Tombone's Computer Vision Blog](http://www.computervisionblog.com/)
 
 # More Reading Lists
 1. [Priyaank's reading list](https://github.com/priyaank/deep-learning)
