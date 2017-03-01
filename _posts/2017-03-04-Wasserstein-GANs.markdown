@@ -20,7 +20,7 @@ $$
 \mathbb{E}_{x_{fake} \sim P_{\theta}}(f_{w}(x_{fake})) 
 $$
 
-Where, $$f_{w}$$ is function with parameters $$w$$. However, $$f_{w}$$  cannot be just any function, it must be
+Where, $$f_{w}$$ is the 'critic' function with parameters $$w$$. However, $$f_{w}$$  cannot be just any function, it must be
 [$$K$$-Lipschitz](https://en.wikipedia.org/wiki/Lipschitz_continuity), thankfully, we can just do just by restricting
 $$w$$ within a particular set of possible
 values $$W$$. So what's going on up there? The above equation just says that the distance
@@ -44,7 +44,7 @@ This means that most standard neural network architectures work just fine.*
 The algorithm for training the WGAN is given below:
 
 > * *Initial Parameters:* $$w_{0}$$: initial parameters of $$f_{w}$$, $$\theta_{0}$$: initial parameters of $$g_{\theta}$$,
-$$n_{critic}$$: the number of iterations of $$f_{w}$$ per generator iteration, $$m$$: batch size, $$\alpha$$: learning rate
+$$n_{critic}$$: the number of maximization iterations of $$ f_{w}$$ per generator iteration, $$m$$: batch size, $$\alpha$$: learning rate
  1. > **while** $$\theta$$ has not converged **do**
  2. > > **for** $$t = 0, \dots, n_{critic}$$ **do**
  3. > > > Sample {$$x_{real}^{(i)}$$} $$ \sim P_{real}$$ a batch of real samples
@@ -63,6 +63,8 @@ by finding the $$w$$ that maximizes $$\left[\frac{1}{m}\sum\limits_{i = 1}^{m}f_
 \frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(g_{\theta}(z^{(i)}))\right]$$ (lines 2 - 6).
 We then clip the updated $$w$$ to ensure $$f_{w}$$ is $$K$$-Lipschitz. Once the correct distance is learnt we fix $$w$$ and
 update $$\theta$$, the paramters of $$g_{\theta}$$, to minimize this distance (lines 9 - 10). We repeat this process till convergence is reached.
+
+# Empirical Results
 
 
  
