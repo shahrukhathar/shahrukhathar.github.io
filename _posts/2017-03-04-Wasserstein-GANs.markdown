@@ -16,8 +16,8 @@ to find a way measure how far away $$P_{\theta}$$ is from $$P_{r}$$. WGANs uses 
 the distance between probability distributions and it is defined as follows
 
 $$
-\mathbb{W}(P_{r}, P_{\theta}) = \underset{w \in W}{\text{max}}\mathbb{E}_{x_{real} \~ P_{r}}(f_{w}(x_{real})) -
-\mathbb{E}_{x_{fake} \~ P_{\theta}}(f_{w}(x_{fake})) 
+\mathbb{W}(P_{r}, P_{\theta}) = \underset{w \in W}{\text{max}}\mathbb{E}_{x_{real} \sim P_{r}}(f_{w}(x_{real})) -
+\mathbb{E}_{x_{fake} \sim P_{\theta}}(f_{w}(x_{fake})) 
 $$
 
 Where, $$f_{w}$$ is function with parameters $$w$$. However, $$f_{w}$$  cannot be just any function, it must be
