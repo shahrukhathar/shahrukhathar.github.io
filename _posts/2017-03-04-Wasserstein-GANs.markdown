@@ -37,13 +37,13 @@ $$n_{critic}$$: the number of iterations to per generator iteration, $$m$$: batc
  2. > > **for** $$t = 0, \dots, n_{critic}$$ **do**
  3. > > > Sample {$$x_{real}^{(i)}$$} $$ ~ P_{real}$$ a batch of real samples
  4. > > > Sample {$$z^{(i)}$$} $$ ~ p(z)$$ a batch of priors
- 5. > > > Calculate gradiet w.r.t $$w$$:  $$g_{w} \leftarrow \nabla_{w} \left[\frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(x_{real}^{(i)}) - \frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(g_{\theta}(z^{(i)}))\right]$$
- 6. > > > Update $$w$$:  $$w \leftarrow w + \alpha \text{RMSProp}(w, g_{w})$$
- 7. > > > Clip $$w$$:  $$w \leftarrow \text{clip}(w, -c, c) $$
+ 5. > > > Calculate gradient w.r.t $$w$$:  $$\quad g_{w} \leftarrow \nabla_{w} \left[\frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(x_{real}^{(i)}) - \frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(g_{\theta}(z^{(i)}))\right]$$
+ 6. > > > Update $$w$$:  $$\quad w \leftarrow w + \alpha \text{RMSProp}(w, g_{w})$$
+ 7. > > > Clip $$w$$:  $$\quad w \leftarrow \text{clip}(w, -c, c) $$
  8. > > **end for**
  9. > > Sample {$$z^{(i)}$$} $$ ~ p(z)$$ a batch of priors
- 10. > > Calculate gradient w.r.t $$\theta$$:  $$ g_{\theta} \leftarrow \nabla_{w} \left[\frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(x_{real}^{(i)}) - \frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(g_{\theta}(z^{(i)}))\right]$$
- 11. > > Update $$\theta$$:  $$\theta \leftarrow \theta - \alpha \text{RMSProp}(\theta, g_{\theta})$$
+ 10. > > Calculate gradient w.r.t $$\theta$$:  $$\quad g_{\theta} \leftarrow \nabla_{w} \left[\frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(x_{real}^{(i)}) - \frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(g_{\theta}(z^{(i)}))\right]$$
+ 11. > > Update $$\theta$$:  $$\quad \theta \leftarrow \theta - \alpha \text{RMSProp}(\theta, g_{\theta})$$
  12. > **end while**
 
 
