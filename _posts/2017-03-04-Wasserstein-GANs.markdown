@@ -16,8 +16,8 @@ to find a way measure how far away $$P_{\theta}$$ is from $$P_{r}$$. WGANs uses 
 the distance between probability distributions and it is defined as follows
 
 $$
-\mathbb{W}(P_{r}, P_{\theta}) = \underset{w \in W}{\text{max}}\mathbb{E}_{x_{real} ~ P_{r}}(f_{w}(x_{real})) -
-\mathbb{E}_{x_{fake} ~ P_{\theta}}(f_{w}(x_{fake})) 
+\mathbb{W}(P_{r}, P_{\theta}) = \underset{w \in W}{\text{max}}\mathbb{E}_{x_{real} \~ P_{r}}(f_{w}(x_{real})) -
+\mathbb{E}_{x_{fake} \~ P_{\theta}}(f_{w}(x_{fake})) 
 $$
 
 Where, $$f_{w}$$ is function with parameters $$w$$. However, $$f_{w}$$  cannot be just any function, it must be
@@ -27,6 +27,7 @@ values $$W$$. So what's going on up there? The above equation just says that the
 between the two distribution $$P_{r}$$ and $$P_{\theta}$$ is equal to the maximum over $$w$$ of the difference between the expectation of
 $$f_{w}(x_{real})$$ and $$f_{w}(x_{fake})$$. Different values of $$w$$ would give us different values for this difference, we have to find
 the $$w_{max}$$ that maximizes it (but is within $$W$$) to find the correct distance between the two distributions.
+
 
 # The Algorithm
 The algorithm for training the WGAN is given below
@@ -42,7 +43,7 @@ $$n_{critic}$$: the number of iterations to per generator iteration, $$m$$: batc
  7. > > > Clip $$w$$:  $$\quad w \leftarrow \text{clip}(w, -c, c) $$
  8. > > **end for**
  9. > > Sample {$$z^{(i)}$$} $$ ~ p(z)$$ a batch of priors
- 10. > > Calculate gradient w.r.t $$\theta$$:  $$\quad g_{\theta} \leftarrow \nabla_{w} \left[\frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(x_{real}^{(i)}) - \frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(g_{\theta}(z^{(i)}))\right]$$
+ 10. > > Calculate gradient w.r.t $$\theta$$:  $$\quad g_{\theta} \leftarrow \nabla_{\theta} \left[\frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(x_{real}^{(i)}) - \frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(g_{\theta}(z^{(i)}))\right]$$
  11. > > Update $$\theta$$:  $$\quad \theta \leftarrow \theta - \alpha \text{RMSProp}(\theta, g_{\theta})$$
  12. > **end while**
 
