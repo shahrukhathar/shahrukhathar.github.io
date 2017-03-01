@@ -8,7 +8,7 @@ The Wasserstein GAN (WGAN) is an incredibly recent algorithm developed by resear
 Generative Adversarial Networks (GAN).
 If you don't know what Generative Models or GANs are all about [here](https://openai.com/blog/generative-models/)
 is a great post by OpenAI explaining why Generative Modeling is so crucial to AI and how GANs work. This rather short post is about how
-they work without the technical (but beautiful!) details.
+WGANs work without the technical (but beautiful!) details.
 
 Like all other generative models, the goal of WGANs is to learning the probability distribution $$P_{\theta}$$ so that
 it approximates the real distribution of data, $$P_{r}$$, as closely as possible. To do this we first need
@@ -27,6 +27,13 @@ values $$W$$. So what's going on up there? The above equation just says that the
 between the two distribution $$P_{r}$$ and $$P_{\theta}$$ is equal to the maximum over $$w$$ of the difference between the expectation of
 $$f_{w}(x_{real})$$ and $$f_{w}(x_{fake})$$. Different values of $$w$$ would give us different values for this difference, we have to find
 the $$w_{max}$$ that maximizes it (but is within $$W$$) to find the correct distance between the two distributions.
+
+We generate $$x_{fake}$$ by sampling a random vector of some size $k$ from a prior distribution (usually gaussian) and passing it through a neural networks,
+$$g_{\theta}$$, with paramters $$\theta$$ which can be learnt$$^{*}$$.
+Therefore, we get that $$x_{real} = g_{\theta}(z)$$. The function, $$f_{w}$$, too can be modelled as a neural network with parameters $$w$$ such that
+$$w \in W$$.
+
+
 
 
 # The Algorithm
