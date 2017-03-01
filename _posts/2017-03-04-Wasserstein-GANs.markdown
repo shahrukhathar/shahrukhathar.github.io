@@ -31,7 +31,7 @@ the $$w_{max}$$ that maximizes it (but is within $$W$$) to find the correct dist
 distance is found we can tweak the parameters of $$P_{\theta}$$ so that we can reduce it.
 
 
-We generate $$x_{fake}$$ by sampling a random vector of some size $$k$$ from a prior distribution, $$p_{z}$$ (usually gaussian), and passing it through a neural networks,
+We generate $$x_{fake}$$ by sampling a random vector, $$z$$, from a prior distribution, $$p_{z}$$ (usually gaussian), and passing it through a neural networks,
 $$g_{\theta}$$, with paramters $$\theta$$ which can be learnt.$$^{*}$$
 Therefore, we get that $$x_{real} = g_{\theta}(z)$$ or $$P_{\theta} = g_{\theta}(z)$$. The function, $$f_{w}$$, too can be modelled as a neural network with parameters $$w$$ such that
 $$w \in W$$.
