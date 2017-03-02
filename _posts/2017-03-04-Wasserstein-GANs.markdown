@@ -71,9 +71,11 @@ update $$\theta$$, the paramters of $$g_{\theta}$$, to minimize this distance (l
 The results here are right from the WGAN [paper](https://arxiv.org/pdf/1701.07875.pdf). Perhaps the most important property the authors found of WGANs
 is that the Wasserstien-1 distance correlates quite well with sample quality. Figures 1 and 2 give two examples of WGANs trained with different
 architecutres on the LSUN-Bedrooms dataset.
-![Figure 1: A WGAN with the DCGAN architecutre trained on the LSUN_Bedrooms dataset. As the Wasserstein Loss
-goes down we see that the the sample quality gets better](/images/WGAN_DCGAN.png)
+![](/images/WGAN_DCGAN.png)
+*Figure 1: A WGAN with the DCGAN architecutre trained on the LSUN_Bedrooms dataset. As the Wasserstein Loss
+goes down we see that the the sample quality gets better*
 
-![Figure 2: A WGAN with an MLP architecutre trained on the LSUN_Bedrooms dataset. As the Wasserstein Loss
-goes down we see that the sample quality gets better](/images/WGAN_MLP.png)
+![](/images/WGAN_MLP.png)
+*Figure 2: A WGAN with an MLP architecutre trained on the LSUN_Bedrooms dataset. As the Wasserstein Loss
+goes down we see that the sample quality gets better*
 
