@@ -18,3 +18,5 @@ github_username:  srxdev0619
 # Build settings
 markdown: kramdown
 future: true
+
+theme: jekyll-theme-hacker
