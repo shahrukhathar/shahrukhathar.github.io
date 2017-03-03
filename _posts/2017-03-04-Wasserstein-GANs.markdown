@@ -11,8 +11,8 @@ If you don't know what Generative Models or GANs are all about [here](https://op
 is a great post by OpenAI explaining why Generative Modeling is so crucial to AI and how GANs work. This rather short post is about how
 WGANs work without the technical (but beautiful!) details.
 
-Like all other generative models, the goal of WGANs is to learning the probability distribution $$P_{\theta}$$ so that
-it approximates the real distribution of data, $$P_{r}$$, as closely as possible. To do this we first need
+Like all other generative models, the goal of WGANs is to learn the probability distribution $$P_{\theta}$$ that
+approximates the real distribution of data, $$P_{r}$$, as closely as possible. To do this we first need
 to find a way measure how far away $$P_{\theta}$$ is from $$P_{r}$$. WGANs uses the Wasserstein-1 to measure
 the distance between probability distributions and it is defined as follows
 
