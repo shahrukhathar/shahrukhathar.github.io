@@ -44,7 +44,7 @@ This means that most standard neural network architectures work just fine.*
 # The Algorithm
 The algorithm for training the WGAN is given below:
 
-> * *Initial Parameters:* $$w_{0}$$: initial parameters of $$f_{w}$$, $$\theta_{0}$$: initial parameters of $$g_{\theta}$$,
+> * **Initial Parameters:** $$w_{0}$$: initial parameters of $$f_{w}$$, $$\theta_{0}$$: initial parameters of $$g_{\theta}$$,
 $$n_{critic}$$: the number of maximization iterations of $$ f_{w}$$ per generator iteration, $$m$$: batch size, $$\alpha$$: learning rate,
 $$c$$: clipping parameter 
  1. > **while** $$\theta$$ has not converged **do**
