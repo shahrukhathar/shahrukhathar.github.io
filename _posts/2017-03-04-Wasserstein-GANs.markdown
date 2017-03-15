@@ -51,7 +51,7 @@ $$c$$: clipping parameter
  2. > > **for** $$t = 0, \dots, n_{critic}$$ **do**
  3. > > > Sample {$$x_{real}^{(i)}$$} $$ \sim P_{real}$$ a batch of real samples
  4. > > > Sample {$$z^{(i)}$$} $$ \sim p(z)$$ a batch of priors
- 5. > > > Calculate gradient w.r.t $$w$$:$$\quad \mathcal{g}_{w} \leftarrow \nabla_{w} \left[\frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(x_{real}^{(i)}) - \frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(g_{\theta}(z^{(i)}))\right]$$
+ 5. > > > Calculate gradient w.r.t $$w$$:$$\quad \mathcal{G}_{w} \leftarrow \nabla_{w} \left[\frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(x_{real}^{(i)}) - \frac{1}{m}\sum\limits_{i = 1}^{m}f_{w}(g_{\theta}(z^{(i)}))\right]$$
  6. > > > Update $$w$$:$$\quad w \leftarrow w + \alpha \times \text{RMSProp}(w, g_{w})$$
  7. > > > Clip $$w$$:$$\quad w \leftarrow \text{clip}(w, -c, c) $$
  8. > > **end for**
