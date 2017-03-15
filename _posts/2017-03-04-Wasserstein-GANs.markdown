@@ -80,7 +80,7 @@ goes down we see that the the sample quality gets better*
 goes down we see that the sample quality gets better*
 
 # Code
-[Here](https://github.com/martinarjovsky/WassersteinGAN) is the repo of the code released by the authors implementing WGANs using [Pytorch](http://pytorch.org/). Volodymyr Kuleshov too has a neat implementation of WGANs in Tensorflow/Keras in this [repo](https://github.com/kuleshov).
+[Here](https://github.com/martinarjovsky/WassersteinGAN) the code released by the authors implementing WGANs using [Pytorch](http://pytorch.org/). Volodymyr Kuleshov too has a neat implementation of WGANs in [Tensorflow](https://www.tensorflow.org/)/[Keras](https://keras.io/) in this [repo](https://github.com/kuleshov/tf-wgan).
 
 # Further Reading
 
