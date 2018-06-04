@@ -15,14 +15,7 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: shahrukh_athar
 github_username:  srxdev0619
 
-# Build settings
-markdown: kramdown
-future: true
-
-theme: jekyll-theme-midnight
-
 #Authors
-
 shahrukh_athar:
     name: ShahRukh Athar
     web: http://shahrukhathar.github.io/
@@ -32,3 +25,9 @@ victor_lempitsky:
 evgeny_burnaev:
     name: Evgeny Burnaev
     web: https://faculty.skoltech.ru/people/evgenyburnaev
+
+# Build settings
+markdown: kramdown
+future: true
+
+theme: jekyll-theme-midnight

@@ -14,7 +14,7 @@ Deep Convolutional Networks have made a lasting impact on the entire field of co
 
 # How does it work?
 
-Given a dataset of images $$\mathcal{D} = \{x_{1}, x_{2}, \hdots, x_{M}\}$$ from some distribution $$\mathcal{X}$$, we pair with each image $$x_{i}$$ a latent CNN $$f_{\phi_{i}}$$ with parameters $$\phi_{i}$$. We now jointly optimize the $$\phi_{i}$$'s and the parameters $$\theta$$ of a generator $$G_{\theta}$$ for a minibatch of size $$N$$ as follows
+Given a dataset of images $$\mathcal{D} = \{x_{1}, x_{2}, ..., x_{M}\}$$ from some distribution $$\mathcal{X}$$, we pair with each image $$x_{i}$$ a latent CNN $$f_{\phi_{i}}$$ with parameters $$\phi_{i}$$. We now jointly optimize the $$\phi_{i}$$'s and the parameters $$\theta$$ of a generator $$G_{\theta}$$ for a minibatch of size $$N$$ as follows
 
 $$
     \underset{\theta}{\text{min }} \frac{1}{N}\sum\left[\underset{\phi_{i}}{\text{min }} \mathcal{L}(x_{i},G_{\theta}(f_{\phi_{i}}(s)))\right]
