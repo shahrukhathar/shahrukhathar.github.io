@@ -1,8 +1,18 @@
-{% assign author = site[page.author] %}
-{% if author %}
-    <span>
-        <!-- Personal Info. -->
-        Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
-    </span>
+<p>
+{% assign authorCount = site[page.authors] | size %}
+{% if authorCount == 0 %}
+    No author
+{% elsif authorCount == 1 %}
+    {{ page.authors | first }}
+{% else %}
+    {% for author in page.authors %}
+        {% if forloop.first %}
+            <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+        {% elsif forloop.last %}
+            and <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+        {% else %}
+            , <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+        {% endif %}
+    {% endfor %}
 {% endif %}
-
+</p>
