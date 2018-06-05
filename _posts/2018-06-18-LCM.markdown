@@ -34,8 +34,8 @@ We carry out the optimization above using vanilla stochastic gradient descent. A
 # How well does it work?
 
 Given below are the results of inpainting and super-resolution using LCM and a few similar methods
-![](/images/LCM/results_celeba.png)
-*Inpainting and Super-Resolution on CelebA at $$128\times{}128$$ resolution. The compared models are Generative Latent Space Optimization ([GLO](https://arxiv.org/abs/1707.05776)), Deep Image Prior ([DIP](https://dmitryulyanov.github.io/deep_image_prior)), Wasserstein GAN with Gradient Penalty ([WGAN](https://arxiv.org/abs/1704.00028)) and Autoencoders ([AE](http://www.deeplearningbook.org/contents/autoencoders.html)).*
+![](/images/LCM/results_celeba_full.png)
+*Inpainting, Super-Resolution and Colorization results on CelebA at $$128\times{}128$$ resolution. The compared models are Generative Latent Space Optimization ([GLO](https://arxiv.org/abs/1707.05776)), Deep Image Prior ([DIP](https://dmitryulyanov.github.io/deep_image_prior)), Wasserstein GAN with Gradient Penalty ([WGAN](https://arxiv.org/abs/1704.00028)) and Autoencoders ([AE](http://www.deeplearningbook.org/contents/autoencoders.html)).*
 
 
 # Relevant Work
