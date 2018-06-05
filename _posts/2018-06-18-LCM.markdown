@@ -55,7 +55,7 @@ Though not all elements in $$\mathbb{I}_{f,s,\theta}$$ would belong to $$\mathca
 
 # Image Restoration using a LCM
 
-Given below are the results of inpainting, super-resolution and colorization using a LCM on the CelebA datset. Perceptual metrics and results on more datasets can be found in the [paper](toNoWhere).
+Given below are the results of inpainting, super-resolution and colorization using a LCM on the CelebA dataset. Perceptual metrics and results on more datasets can be found in the [paper](toNoWhere).
 
 
 ![](/images/LCM/results_celeba_full.png)
