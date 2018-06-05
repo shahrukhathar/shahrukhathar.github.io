@@ -14,7 +14,7 @@ author: ShahRukh Athar, Victor Lempitsky and Evgeny Burnaev
 *Sample resotrations using a Latent Convolutional Model.*
 
 
-Deep Convolutional Networks have made a lasting impact on the entire field of computer vision with great results on segmentation, recognition and generative modelling of images. Of late, there has been an increasing amount of work suggesting that the structure of the Convolutional Neural Network itself plays a rather important role in building unsupervised models of images and our work provides further evidence to support this claim. We present a new latent model of natural images that can be learned on large-scale datasets. The learning process provides a latent embedding for every image in the training dataset, as well as a deep convolutional network that maps the latent space to the image space. This latent space our model uses is relatively high-dimensional and is parametrized by convolutional neural networks; we call it the *convolutional manifold*.
+Deep Convolutional Networks have made a lasting impact on the entire field of computer vision with great results on segmentation, recognition and generative modelling of images. Of late, there has been an increasing amount of work suggesting that the structure of the Convolutional Neural Network itself plays a rather important role in building unsupervised models of images and our work provides further evidence to support this claim. We present a new latent model of natural images that can be learned on large-scale datasets. The learning process provides a latent embedding for every image in the training dataset, as well as a deep convolutional network that maps the latent space to the image space. The latent space our model uses is relatively high-dimensional and is parametrized using convolutional neural networks.  
 
 
 # How does it work?
@@ -36,3 +36,9 @@ We carry out the optimization above using vanilla stochastic gradient descent. A
 Given below are the results of inpainting and super-resolution using LCM and a few similar methods
 ![](/images/LCM/results_celeba.png)
 *Inpainting and Super-Resolution on CelebA at $$128\times{}128$$ resolution. The compared models are Generative Latent Space Optimization ([GLO](https://arxiv.org/abs/1707.05776)), Deep Image Prior ([DIP](https://dmitryulyanov.github.io/deep_image_prior)), Wasserstein GAN with Gradient Penalty ([WGAN](https://arxiv.org/abs/1704.00028)) and Autoencoders ([AE](http://www.deeplearningbook.org/contents/autoencoders.html)).*
+
+
+# Relevant Work
+
+- [Generative Latent Space Optimization](https://arxiv.org/abs/1707.05776)
+- [The Deep Image Prior](https://dmitryulyanov.github.io/deep_image_prior)
