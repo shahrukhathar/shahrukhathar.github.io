@@ -46,8 +46,7 @@ with additional constraints that $$\phi_{i} \in [-0.01, 0.01]$$. The loss functi
 We carry out the optimization above using vanilla stochastic gradient descent. As the model is learnt, each image, $$x_{i}$$, gets a representation $$z_{i} = f_{\phi_{i}}(s)$$ on the convolutional manifold. Further, each element in the convolutional manifold would define an image in the image-space:
 
 $$
-    \mathbb{I}_{f,s,\theta} = \{x\ |\ x = G_{\theta}(f_{\phi}(s)),\ \phi \in \Phi\}
-    \label{eq:ImConvSpace}
+    \mathbb{I}_{f,s,\theta} = \{x\ |\ x = g_{\theta}(f_{\phi}(s)),\ \phi \in \Phi\}
 $$
 
 Though not all elements in $$\mathbb{I}_{f,s,\theta}$$ would belong to $$\mathcal{X}$$, we found that the resulting manifold can cover $$\mathcal{X}$$'s support quite well with its each element having a very close approximation on $$\mathbb{I}_{f,s,\theta}$$.
