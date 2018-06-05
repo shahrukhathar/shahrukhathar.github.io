@@ -19,6 +19,10 @@ Deep Convolutional Neural Networks (CNN) have made a lasting impact on the entir
 
 # How does it work?
 
+![Img2](/images/LCM/NormNet_Paper.png)
+*The Schematic of a Latent Convolutional Model. The smaller CNN, $$f_{\phi}$$ (red), is unique to each image and parametrizes the latent space of the generator, $$g_{\theta}$$ (magenta), which is common to all images. The input $$s$$ is fixed to random noise and is not updated during the training process.*
+
+
 The *convolutional manifold* is central to the working of the Latent Convolutional Model (LCM), let's start by describing what it is. Given a 3D map $$s$$ of size 
 $$W_{s}\times{}H_{s}\times{}C_{s}$$ and a set of convolutional networks 
 $$\{f_{\phi} | \phi \in \Phi\}$$ of the same architecture, 
@@ -48,8 +52,6 @@ $$
 
 Though not all elements in $$\mathbb{I}_{f,s,\theta}$$ would belong to $$\mathcal{X}$$, we found that the resulting manifold can cover $$\mathcal{X}$$'s support quite well with its each element having a very close approximation on $$\mathbb{I}_{f,s,\theta}$$.
 
-![Img2](/images/LCM/NormNet_Paper.png)
-*The Schematic of a Latent Convolutional Model. The smaller CNN, $$f_{\phi}$$ (red), is unique to each image and parametrizes the latent space of the generator, $$g_{\theta}$$ (magenta), which is common to all images. The input $$s$$ is fixed to random noise and is not updated during the training process.*
 
 # Image Restoration using LCMs
 
