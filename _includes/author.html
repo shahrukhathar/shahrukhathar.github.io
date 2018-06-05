@@ -1,10 +1,8 @@
 {% assign author = site[page.author] %}
 {% if author %}
-  <span>
-    Written by {{ author.name }}
-  </span>
-{% else %}
-  <span>
-    Written by ShahRukh Athar
-  </span>
+    <span>
+        <!-- Personal Info. -->
+        Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+    </span>
 {% endif %}
+
