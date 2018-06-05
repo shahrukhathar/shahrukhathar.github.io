@@ -33,7 +33,7 @@ We carry out the optimization above using vanilla stochastic gradient descent. A
 
 # Image Restoration using LCMs
 
-Given below are the results of inpainting, super-resolution and colorization using a LCM on the CelebA datset.
+Given below are the results of inpainting, super-resolution and colorization using a LCM on the CelebA datset. Perceptual metrics and results on more datasets can be found in the [paper](toNoWhere).
 
 
 ![](/images/LCM/results_celeba_full.png)
@@ -48,3 +48,4 @@ Given below are the results of inpainting, super-resolution and colorization usi
 # Additional Resources
 
 - [Code](https://github.com/srxdev0619/Latent_Convolutional_Models)
+- [Paper](toNoWhere)
