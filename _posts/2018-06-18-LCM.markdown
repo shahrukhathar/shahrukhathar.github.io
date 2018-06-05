@@ -1,10 +1,7 @@
 ---
 layout: post
 title:  "Latent Convolutional Models"
-author: 
-- shahrukh_athar
-- victor_lempitsky
-- evgeny_burnaev
+author: ShahRukh Athar, Victor Lempitsky and Evgeny Burnaev
 ---
 
 ![](/images/LCM/Sample_Restorations.png)
