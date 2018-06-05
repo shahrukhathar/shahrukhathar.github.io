@@ -31,9 +31,9 @@ We carry out the optimization above using vanilla stochastic gradient descent. A
 ![Img2](/images/LCM/NormNet_Paper.png)
 *The Schematic of a Latent Convolutional Model. The smaller ConvNet $$f_{\phi}$$ (red) is unique to each image is parametrize the latent space of the generator $$g_{\theta}$$ (magenta) which is common to all images. The input $$s$$ is fixed to random noise and is not updated during the training process.*
 
-# How well does it work?
+# Image Restoration using LCMs
 
-Given below are the results of inpainting and super-resolution using LCM and a few similar methods
+Given below are the results of inpainting, super-resolution and colorization using a LCM on the CelebA datset.
 
 
 ![](/images/LCM/results_celeba_full.png)
