@@ -32,7 +32,7 @@ $$
 
 Various choices of $$\phi \in \Phi$$ span the manifold for a given architecture $$f$$, $$s$$ and $$\Phi$$. In our work, we have chosen $$s$$ to be a map filled with uniform noise, $$f$$ to be a CNN with 4 or 5 layers and $$\Phi= [-B, B]^{N_{\phi}}$$ where $$N_{\phi}$$ is the number of parameters in $$f$$ and $$B$$ is some constant value. The convolutional manifold was inspired by the work done in [2] where the authors effectively use it to model images in the image-space itself. In contrast, we use the convolutional manifold to model a latent space of images that can mapped to the image space using a generator network, thus allowing us to learn a latent representation of any given dataset of images. The work done in [2] showed that the regularization imposed by the structure of a CNN is quite helpful while modelling images and we intuit that a similar regularization would also be helpful while learning high dimensional latent space models.
 
-We train the LCM by jointly training a generator, $$g_{\theta}$$ and the CNNs, $$f_{\phi_{i}}$$, unique to each image. Given a dataset of images $$\mathcal{D} = \{x_{1}, x_{2}, ..., x_{M}\}$$ from some distribution $$\mathcal{X}$$, we pair with each image $$x_{i}$$, a latent CNN $$f_{\phi_{i}}$$ with parameters $$\phi_{i}$$ and some architecture $$f$$. We now jointly optimize the $$\phi_{i}$$'s and the parameters $$\theta$$ of a generator $$g_{\theta}$$ for a minibatch of size $$N$$ as follows
+We train the LCM by jointly training a generator, $$g_{\theta}$$ and the CNNs, $$f_{\phi_{i}}$$ that unique to each image. Given a dataset of images $$\mathcal{D} = \{x_{1}, x_{2}, ..., x_{M}\}$$ from some distribution $$\mathcal{X}$$, we pair with each image $$x_{i}$$, a latent CNN $$f_{\phi_{i}}$$ with parameters $$\phi_{i}$$ and some architecture $$f$$. We now jointly optimize the $$\phi_{i}$$'s and the parameters $$\theta$$ of a generator $$g_{\theta}$$ for a minibatch of size $$N$$ as follows
 
 $$
     \underset{\theta}{\text{min }} \frac{1}{N}\sum\left[\underset{\phi_{i}}{\text{min }} \mathcal{L}(x_{i},g_{\theta}(f_{\phi_{i}}(s)))\right]
@@ -42,7 +42,7 @@ with additional constraints that $$\phi_{i} \in [-0.01, 0.01]$$. The loss functi
 We carry out the optimization above using vanilla stochastic gradient descent. As the model is learnt, each image, $$x_{i}$$, gets a representation $$z_{i} = f_{\phi_{i}}(s)$$ on the convolutional manifold.
 
 ![Img2](/images/LCM/NormNet_Paper.png)
-*The Schematic of a Latent Convolutional Model. The smaller ConvNet $$f_{\phi}$$ (red) is unique to each image is parametrize the latent space of the generator $$g_{\theta}$$ (magenta) which is common to all images. The input $$s$$ is fixed to random noise and is not updated during the training process.*
+*The Schematic of a Latent Convolutional Model. The smaller CNN $$f_{\phi}$$ (red) is unique to each image is parametrize the latent space of the generator $$g_{\theta}$$ (magenta) which is common to all images. The input $$s$$ is fixed to random noise and is not updated during the training process.*
 
 # Image Restoration using LCMs
 
