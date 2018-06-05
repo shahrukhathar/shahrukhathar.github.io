@@ -49,6 +49,6 @@ Given below are the results of inpainting, super-resolution and colorization usi
 
 - [1] P. Bojanowski, A. Joulin, D. Lopez-Paz, and A. Szlam. [Optimizing the latent space of generative networks](https://arxiv.org/abs/1707.05776). In *Proc. ICML*, 2018.
 - [2] D. Ulyanov, A. Vedaldi, and V. Lempitsky. [Deep image prior](https://dmitryulyanov.github.io/deep_image_prior). In *Proc. CVPR*, 2018.
-- [3] Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, and Aaron C Courville. Improved training of wasserstein GANs. In *Proc. NIPS*, 2017.
+- [3] Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, and Aaron C Courville. [Improved training of Wasserstein GANs](https://arxiv.org/abs/1704.00028). In *Proc. NIPS*, 2017.
 - [4] Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](http://www.deeplearningbook.org). MIT Press, 2016.
 
