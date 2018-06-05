@@ -9,8 +9,6 @@ author: ShahRukh Athar, Victor Lempitsky and Evgeny Burnaev
 <a href="https://faculty.skoltech.ru/people/evgenyburnaev" target="_blank">Evgeny Burnaev</a>
 </p>
 
-- [Code](https://github.com/srxdev0619/Latent_Convolutional_Models)
-
 
 ![](/images/LCM/Sample_Restorations.png)
 *Sample resotrations using a Latent Convolutional Model.*
@@ -46,3 +44,7 @@ Given below are the results of inpainting and super-resolution using LCM and a f
 
 - [Generative Latent Space Optimization](https://arxiv.org/abs/1707.05776)
 - [The Deep Image Prior](https://dmitryulyanov.github.io/deep_image_prior)
+
+# Additional Resources
+
+- [Code](https://github.com/srxdev0619/Latent_Convolutional_Models)
