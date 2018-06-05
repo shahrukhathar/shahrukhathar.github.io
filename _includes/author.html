@@ -1,11 +1,11 @@
 <p>
-{% assign authorCount = site[page.author] | size %}
+{% assign authorCount = page.author | size %}
 {% if authorCount == 0 %}
-    {{ site[page.author] }}
+    {{ page.author }}
 {% elsif authorCount == 1 %}
-    {{ site[page.author] | first }}
+    {{ page.author | first }}
 {% else %}
-    {% for author in site[page.author] %}
+    {% for author in page.author %}
         {% if forloop.first %}
             <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
         {% elsif forloop.last %}
