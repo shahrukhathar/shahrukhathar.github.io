@@ -55,11 +55,15 @@ Though not all elements in $$\mathbb{I}_{f,s,\theta}$$ would belong to $$\mathca
 
 # Image Restoration using a LCM
 
-Given below are the results of inpainting, super-resolution and colorization using a LCM on the CelebA dataset. Perceptual metrics and results on more datasets can be found in the [paper](toNoWhere).
+Given below are quantitative and qualitative results of inpainting, super-resolution and colorization using a LCM on the CelebA dataset. Perceptual metrics and results on more datasets can be found in the [paper](toNoWhere).
 
 
 ![](/images/LCM/results_celeba_full.png)
 *<sub font-size="small">Inpainting, Super-Resolution and Colorization results on CelebA at $$128\times{}128$$ resolution. The compared models are Generative Latent Space Optimization ([GLO](https://arxiv.org/abs/1707.05776)) [1], Deep Image Prior ([DIP](https://dmitryulyanov.github.io/deep_image_prior)) [2], Wasserstein GAN with Gradient Penalty ([WGAN](https://arxiv.org/abs/1704.00028)) [3] and Autoencoders ([AE](http://www.deeplearningbook.org/contents/autoencoders.html)) [4].</sub>*
+
+
+![](/images/LCM/perceptmet_celeba.png)
+*<sub font-size="small">Perceptual metrics of the various restorations on CelebA at $$128\times{}128$$ resolution. The compared models are Generative Latent Space Optimization ([GLO](https://arxiv.org/abs/1707.05776)) [1], Deep Image Prior ([DIP](https://dmitryulyanov.github.io/deep_image_prior)) [2], Wasserstein GAN with Gradient Penalty ([WGAN](https://arxiv.org/abs/1704.00028)) [3] and Autoencoders ([AE](http://www.deeplearningbook.org/contents/autoencoders.html)) [4].</sub>*
 
 # Additional Resources
 
