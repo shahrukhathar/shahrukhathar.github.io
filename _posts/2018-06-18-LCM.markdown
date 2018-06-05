@@ -26,7 +26,7 @@ Convolutional Neural Networks (CNN) have made a lasting impact on the entire fie
 
 The *convolutional manifold* is central to the working of the Latent Convolutional Model (LCM), let's start by describing what it is. Given a 3D map $$s$$ of size 
 $$W_{s}\times{}H_{s}\times{}C_{s}$$ and a set of convolutional networks 
-$$\{f_{\phi} | \phi \in \Phi\}$$ of the same architecture, 
+$$\{f_{\phi} |\ \phi \in \Phi\}$$ of the same architecture, 
 $$f$$, the convolutional manifold 
 $$\mathbb{C}_{f,s}$$ is defined as
 
