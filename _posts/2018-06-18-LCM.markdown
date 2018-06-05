@@ -37,7 +37,7 @@ Given below are the results of inpainting, super-resolution and colorization usi
 
 
 ![](/images/LCM/results_celeba_full.png)
-*Inpainting, Super-Resolution and Colorization results on CelebA at $$128\times{}128$$ resolution. The compared models are Generative Latent Space Optimization ([GLO](https://arxiv.org/abs/1707.05776))[1], Deep Image Prior ([DIP](https://dmitryulyanov.github.io/deep_image_prior))[2], Wasserstein GAN with Gradient Penalty ([WGAN](https://arxiv.org/abs/1704.00028)) [3] and Autoencoders ([AE](http://www.deeplearningbook.org/contents/autoencoders.html)) [4].*
+*Inpainting, Super-Resolution and Colorization results on CelebA at $$128\times{}128$$ resolution. The compared models are Generative Latent Space Optimization ([GLO](https://arxiv.org/abs/1707.05776)) [1], Deep Image Prior ([DIP](https://dmitryulyanov.github.io/deep_image_prior)) [2], Wasserstein GAN with Gradient Penalty ([WGAN](https://arxiv.org/abs/1704.00028)) [3] and Autoencoders ([AE](http://www.deeplearningbook.org/contents/autoencoders.html)) [4].*
 
 # Additional Resources
 
