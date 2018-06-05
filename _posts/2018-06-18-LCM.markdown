@@ -14,15 +14,15 @@ author: ShahRukh Athar, Victor Lempitsky and Evgeny Burnaev
 *Sample resotrations using a Latent Convolutional Model.*
 
 
-Deep Convolutional Neural Networks (CNN) have made a lasting impact on the entire field of computer vision with great results on segmentation, recognition and generative modelling of images. Of late, there has been an increasing amount of work suggesting that the structure of the Convolutional Neural Network itself plays a rather important role in building unsupervised models of images and our work provides further evidence to support this claim. We present a new latent model of natural images that can be learned on large-scale datasets. The learning process provides a latent embedding for every image in the training dataset, as well as a generator network that maps each element of the latent space to the image space. The latent space our model uses is relatively high-dimensional and is parametrized by convolutional neural networks that are unique to each image.  
+Deep Convolutional Neural Networks (CNN) have made a lasting impact on the entire field of computer vision with great results on segmentation, recognition and generative modelling of images. Of late, there has been an increasing amount of work suggesting that the structure of the Convolutional Neural Network itself plays a rather important role in building unsupervised models of images and our work provides further evidence to support this claim. We present a new latent model of natural images that can be learned on large-scale datasets. The learning process provides a latent embedding for every image in the training dataset, as well as a generator network that maps each element of the latent space to the image space. The latent space our model uses is relatively high-dimensional and is parametrized by convolutional neural networks that are unique to each image; we call this latent space the *convolutional manifold*.   
 
 
 # How does it work?
 
-Central to the working of the Latent Convolutional Model (LCM) is latent space it acts on i.e the *convolutional manifold*. Given a 3D map $$s$$ of size 
+The *convolutional manifold* is central to the working of the Latent Convolutional Model (LCM), let's start by describing what it is. Given a 3D map $$s$$ of size 
 $$W_{s}\times{}H_{s}\times{}C_{s}$$ and a set of convolutional networks 
 $$\{f_{\phi} | \phi \in \Phi\}$$ of the same architecture, 
-$$f$$, a convolutional manifold 
+$$f$$, the convolutional manifold 
 $$\mathbb{C}_{f,s}$$ is defined as
 
 
@@ -39,7 +39,14 @@ $$
 $$
 
 with additional constraints that $$\phi_{i} \in [-0.01, 0.01]$$. The loss function we use is the Laplacian-L1: $$\mathcal{L}(x_{1},x_{2})_\text{Lap-L1} = \sum_{j}2^{-2j}|L^{j}(x_{1} - x_{2})|_{1}$$ where $$L^{j}$$ is the $$j$$th level of the Laplacian image pyramid. To speed up convergence during training we also add the MSE loss to the Lap-L1 term.
-We carry out the optimization above using vanilla stochastic gradient descent. As the model is learnt, each image, $$x_{i}$$, gets a representation $$z_{i} = f_{\phi_{i}}(s)$$ on the convolutional manifold.
+We carry out the optimization above using vanilla stochastic gradient descent. As the model is learnt, each image, $$x_{i}$$, gets a representation $$z_{i} = f_{\phi_{i}}(s)$$ on the convolutional manifold. Further, each element in the convolutional manifold would define an image in the image-space:
+
+$$
+    \mathbb{I}_{f,s,\theta} = \{x\ |\ x = G_{\theta}(f_{\phi}(s)),\ \phi \in \Phi\}
+    \label{eq:ImConvSpace}
+$$
+
+Though not all elements in $$\mathbb{I}_{f,s,\theta}$$ would belong to $$\mathcal{X}$$, we found that the resulting manifold can cover $$\mathcal{X}$$'s support quite well with its each element having a very close approximation on $$\mathbb{I}_{f,s,\theta}$$.
 
 ![Img2](/images/LCM/NormNet_Paper.png)
 *The Schematic of a Latent Convolutional Model. The smaller CNN, $$f_{\phi}$$ (red), is unique to each image and parametrizes the latent space of the generator, $$g_{\theta}$$ (magenta), which is common to all images. The input $$s$$ is fixed to random noise and is not updated during the training process.*
