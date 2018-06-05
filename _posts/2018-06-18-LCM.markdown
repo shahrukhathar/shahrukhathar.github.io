@@ -25,7 +25,7 @@ $$
     \underset{\theta}{\text{min }} \frac{1}{N}\sum\left[\underset{\phi_{i}}{\text{min }} \mathcal{L}(x_{i},G_{\theta}(f_{\phi_{i}}(s)))\right]
 $$
 
-with additional constraints that $$\phi_{i} \in [-0.01, 0.01]^{N_{\phi}}$$. The loss function we use is the Laplacian-L1: $$\mathcal{L}(x_{1},x_{2})_\text{Lap-L1} = \sum_{j}2^{-2j}|L^{j}(x_{1} - x_{2})|_{1}$$ where $$L^{j}$$ is the $$j$$th level of the Laplacian image pyramid. To speed up convergence during training we also add the MSE loss to the Lap-L1 term.
+with additional constraints that $$\phi_{i} \in [-0.01, 0.01]$$. The loss function we use is the Laplacian-L1: $$\mathcal{L}(x_{1},x_{2})_\text{Lap-L1} = \sum_{j}2^{-2j}|L^{j}(x_{1} - x_{2})|_{1}$$ where $$L^{j}$$ is the $$j$$th level of the Laplacian image pyramid. To speed up convergence during training we also add the MSE loss to the Lap-L1 term.
 We carry out the optimization above using vanilla stochastic gradient descent. As the model is learnt, each image, $$x_{i}$$, gets a representation $$z_{i} = f_{\phi_{i}}(s)$$ on the convolutional manifold.
 
 ![Img2](/images/LCM/NormNet_Paper.png)
