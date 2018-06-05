@@ -22,7 +22,7 @@ Deep Convolutional Networks have made a lasting impact on the entire field of co
 The Latent Convolutional Model (LCM) works by jointly training a generator and convolutional neural networks unique to each image. Given a dataset of images $$\mathcal{D} = \{x_{1}, x_{2}, ..., x_{M}\}$$ from some distribution $$\mathcal{X}$$, we pair with each image $$x_{i}$$ a latent CNN $$f_{\phi_{i}}$$ with parameters $$\phi_{i}$$. We now jointly optimize the $$\phi_{i}$$'s and the parameters $$\theta$$ of a generator $$G_{\theta}$$ for a minibatch of size $$N$$ as follows
 
 $$
-    \underset{\theta}{\text{min }} \frac{1}{N}\sum\left[\underset{\phi_{i}}{\text{min }} \mathcal{L}(x_{i},G_{\theta}(f_{\phi_{i}}(s)))\right]
+    \underset{\theta}{\text{min }} \frac{1}{N}\sum\left[\underset{\phi_{i}}{\text{min }} \mathcal{L}(x_{i},g_{\theta}(f_{\phi_{i}}(s)))\right]
 $$
 
 with additional constraints that $$\phi_{i} \in [-0.01, 0.01]$$. The loss function we use is the Laplacian-L1: $$\mathcal{L}(x_{1},x_{2})_\text{Lap-L1} = \sum_{j}2^{-2j}|L^{j}(x_{1} - x_{2})|_{1}$$ where $$L^{j}$$ is the $$j$$th level of the Laplacian image pyramid. To speed up convergence during training we also add the MSE loss to the Lap-L1 term.
