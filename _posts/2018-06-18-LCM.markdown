@@ -19,7 +19,7 @@ Deep Convolutional Neural Networks (CNN) have made a lasting impact on the entir
 
 # How does it work?
 
-Central to the working of the Latent Convolutional Model (LCM) is latent space it acts on i.e the *convolutional manifold*. Given a 3D map $$s$$ of size $$W_{s}\times{}H_{s}\times{}C_{s}$$ and a set of convolutional networks $$ {f_{\phi}\ |\  \phi \in \Phi} $$ of the same architecture $$f$$, a convolutional manifold $$\mathbb{C}_{f,s}$$ is defined as
+Central to the working of the Latent Convolutional Model (LCM) is latent space it acts on i.e the *convolutional manifold*. Given a 3D map $$s$$ of size $$W_{s}\times{}H_{s}\times{}C_{s}$$ and a set of convolutional networks $${f_{\phi}\ |\  \phi \in \Phi}$$ of the same architecture $$f$$, a convolutional manifold $$\mathbb{C}_{f,s}$$ is defined as
 $$
     \mathbb{C}_{f,s} = \{z\ |\ z = f_{\phi}(s), \phi \in \Phi\}
 $$
