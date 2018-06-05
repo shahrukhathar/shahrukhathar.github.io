@@ -3,9 +3,9 @@
 {% if authorCount == 0 %}
     No author
 {% elsif authorCount == 1 %}
-    {{ page.authors | first }}
+    {{ site[page.authors] | first }}
 {% else %}
-    {% for author in page.authors %}
+    {% for author in site[page.authors] %}
         {% if forloop.first %}
             <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
         {% elsif forloop.last %}
