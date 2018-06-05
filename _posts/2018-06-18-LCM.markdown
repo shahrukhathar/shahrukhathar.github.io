@@ -4,7 +4,7 @@ title:  "Latent Convolutional Models"
 author: ShahRukh Athar, Victor Lempitsky and Evgeny Burnaev
 ---
 
-![](/images/LCM/Sample_Restorations.png){:height="50%" width="50%"}
+![](/images/LCM/Sample_Restorations.png)
 *Sample resotrations using a Latent Convolutional Model.*
 
 
