@@ -1,7 +1,7 @@
 <p>
 {% assign authorCount = site[page.author] | size %}
 {% if authorCount == 0 %}
-    No author
+    {{ site[page.author] }}
 {% elsif authorCount == 1 %}
     {{ site[page.author] | first }}
 {% else %}
