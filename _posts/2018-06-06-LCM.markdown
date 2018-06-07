@@ -55,7 +55,7 @@ Though not all elements in $$\mathbb{I}_{f,s,\theta}$$ would belong to $$\mathca
 
 # Image Restoration using a LCM
 
-For any given dgerading transformation $$\mathcal{T}$$ - which can be multiplication with a binary mask for inpainting, the downsampling kernel for super-resolution or  graying for colorization - we carry out the following optimization to restore images
+For any given degrading transformation $$\mathcal{T}$$ - which can be multiplication with a binary mask for inpainting, the downsampling kernel for super-resolution or  graying for colorization - we carry out the following optimization to restore images
 
 $$
     \begin{split}
