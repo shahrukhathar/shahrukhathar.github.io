@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Latent Convolutional Models"
-author: ShahRukh Athar, Victor Lempitsky and Evgeny Burnaev
+author: ShahRukh Athar, Evgeny Burnaev and Victor Lempitsky
 ---
 <p>
 <a href="http://shahrukhathar.github.io/" target="_blank">ShahRukh Athar</a>, 
@@ -80,6 +80,7 @@ Figures 3 and 4 show qualitative and quantitative results of inpainting, super-r
 
 - [Code](https://github.com/srxdev0619/Latent_Convolutional_Models)
 - [Paper](toNoWhere)
+- [Supplementary Material](https://drive.google.com/file/d/1K3AceiLhxSPzVdu_-CtZQ7cZnKtxNPCY/view?usp=sharing)
 
 
 # References
