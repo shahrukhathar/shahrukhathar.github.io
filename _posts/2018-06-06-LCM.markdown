@@ -66,7 +66,7 @@ $$
 
 
 Here  $$g$$ is the generator that outputs the image, $$\omega$$ are the relevant parameters in the latent space to optimize over and $$\mathcal{L}$$ is the Lap-L1 and MSE loss.
-Figures 3 and 4 show qualitative and quantitative results of inpainting, super-resolution and colorization using a LCM on the CelebA dataset at a resolution of $$128\times{}128$$. Perceptual metrics and results on more datasets can be found in the [paper](toNoWhere).
+Figures 3 and 4 show qualitative and quantitative results of inpainting, super-resolution and colorization using a LCM on the CelebA dataset at a resolution of $$128\times{}128$$. Perceptual metrics and results on more datasets can be found in the [paper](toNoWhere) and the [supplementary material](https://drive.google.com/file/d/1K3AceiLhxSPzVdu_-CtZQ7cZnKtxNPCY/view?usp=sharing).
 
 
 ![](/images/LCM/results_celeba_full.png)
