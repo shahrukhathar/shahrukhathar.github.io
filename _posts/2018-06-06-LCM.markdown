@@ -52,8 +52,13 @@ $$
 
 Though not all elements in $$\mathbb{I}_{f,s,\theta}$$ would belong to $$\mathcal{X}$$, we found that the resulting manifold can cover $$\mathcal{X}$$'s support quite well with its each element having a very close approximation on $$\mathbb{I}_{f,s,\theta}$$.
 
+![Img3](/images/LCM/NormNet_train_paper.png)
+*<sub font-size="small">Figure 3: Training an LCM. The parameters of  the smaller CNN, $$f_{\phi}$$ (red), and the generator, $$g_{\theta}$$ (magenta), are minimized jointly. The input $$s$$ is fixed to random noise and is not updated during the training process.</sub>*
 
 # Image Restoration using a LCM
+
+![Img3](/images/LCM/NormNet_restore_paper.png)
+*<sub font-size="small">Figure 4: Image super-resolution using an LCM. The parameters of  the smaller CNN, $$f_{\phi}$$ (red), are updated to match the downsampled image while the paramters of the generator, $$g_{\theta}$$ (magenta), and the input $$s$$ are kept fixed. Here $$\mathcal{K}$$ is the downsampling kernel.</sub>*
 
 For any given degrading transformation $$\mathcal{T}$$ - which can be multiplication with a binary mask for inpainting, the downsampling kernel for super-resolution or  graying for colorization - we carry out the following optimization to restore images
 
@@ -65,16 +70,16 @@ $$
 $$
 
 
-Here  $$g$$ is the generator that outputs the image, $$\omega$$ are the relevant parameters in the latent space to optimize over and $$\mathcal{L}$$ is the Lap-L1 and MSE loss.
-Figures 3 and 4 show qualitative and quantitative results of inpainting, super-resolution and colorization using a LCM on the CelebA dataset at a resolution of $$128\times{}128$$. Perceptual metrics and results on more datasets can be found in the [paper](https://arxiv.org/abs/1806.06284) and the [supplementary material](https://drive.google.com/file/d/1K3AceiLhxSPzVdu_-CtZQ7cZnKtxNPCY/view?usp=sharing).
+Here  $$g$$ is the generator that outputs the image, $$\omega$$ are the relevant parameters in the latent space to optimize over and $$\mathcal{L}$$ is the Lap-L1 and MSE loss. Figure 4 gives a schematic of super-resolving images using a LCM.
+Figures 5 and 6 show qualitative and quantitative results of inpainting, super-resolution and colorization using a LCM on the CelebA dataset at a resolution of $$128\times{}128$$. Perceptual metrics and results on more datasets can be found in the [paper](https://arxiv.org/abs/1806.06284) and the [supplementary material](https://drive.google.com/file/d/1K3AceiLhxSPzVdu_-CtZQ7cZnKtxNPCY/view?usp=sharing).
 
 
 ![](/images/LCM/results_celeba_full.png)
-*<sub font-size="small">Figure 3: Inpainting, Super-Resolution and Colorization results on CelebA at $$128\times{}128$$ resolution. The compared models are Generative Latent Space Optimization ([GLO](https://arxiv.org/abs/1707.05776)) [1], Deep Image Prior ([DIP](https://dmitryulyanov.github.io/deep_image_prior)) [2], Wasserstein GAN with Gradient Penalty ([WGAN](https://arxiv.org/abs/1704.00028)) [3] and Autoencoders ([AE](http://www.deeplearningbook.org/contents/autoencoders.html)) [4].</sub>*
+*<sub font-size="small">Figure 5: Inpainting, Super-Resolution and Colorization results on CelebA at $$128\times{}128$$ resolution. The compared models are Generative Latent Space Optimization ([GLO](https://arxiv.org/abs/1707.05776)) [1], Deep Image Prior ([DIP](https://dmitryulyanov.github.io/deep_image_prior)) [2], Wasserstein GAN with Gradient Penalty ([WGAN](https://arxiv.org/abs/1704.00028)) [3] and Autoencoders ([AE](http://www.deeplearningbook.org/contents/autoencoders.html)) [4].</sub>*
 
 
 ![](/images/LCM/perceptmet_celeba.png)
-*<sub font-size="small">Figure 4: Perceptual metrics of the various restorations on CelebA at $$128\times{}128$$ resolution. The compared models are Generative Latent Space Optimization ([GLO](https://arxiv.org/abs/1707.05776)) [1], Deep Image Prior ([DIP](https://dmitryulyanov.github.io/deep_image_prior)) [2], Wasserstein GAN with Gradient Penalty ([WGAN](https://arxiv.org/abs/1704.00028)) [3] and Autoencoders ([AE](http://www.deeplearningbook.org/contents/autoencoders.html)) [4].</sub>*
+*<sub font-size="small">Figure 6: Perceptual metrics of the various restorations on CelebA at $$128\times{}128$$ resolution. The compared models are Generative Latent Space Optimization ([GLO](https://arxiv.org/abs/1707.05776)) [1], Deep Image Prior ([DIP](https://dmitryulyanov.github.io/deep_image_prior)) [2], Wasserstein GAN with Gradient Penalty ([WGAN](https://arxiv.org/abs/1704.00028)) [3] and Autoencoders ([AE](http://www.deeplearningbook.org/contents/autoencoders.html)) [4].</sub>*
 
 # Additional Resources
 
