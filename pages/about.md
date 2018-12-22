@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![alt| width=256](/images/IMG_2922.jpg)
+![](/images/IMG_2922.jpg)<!-- .element height="50%" width="50%" -->
 I am a Ph.D. student at Stony Brook University and am working on computer vision and machine learning. I did my Masters in Data Science at [Skoltech](https://http://www.skoltech.ru/en) under the supervision of [Prof. Victor Lempitsky](http://faculty.skoltech.ru/people/victorlempitsky). You can find my CV [here](/assets/CV.pdf).
 
 
