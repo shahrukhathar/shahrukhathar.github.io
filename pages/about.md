@@ -22,7 +22,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <br/><br/>
 
-
+<img align="left" src="/images/Teaser_WeakSup.png" height="137px" width="277px">
 [Weakly supervised fluid filled region localization in retinal OCT scans](https://ieeexplore.ieee.org/abstract/document/8363849)<br/>
 ShahRukh Athar, Abhishek Vahadane, Ameya Joshi, Tathagato Rai Dastidar<br/>
 *International Symposium on Biomedical Imaging (ISBI), 2018*
