@@ -10,7 +10,7 @@ title: ShahRukh's Blog
 email: sathar@cs.stonybrook.edu
 description: > # this means to ignore newlines until "baseurl:"
   I dabble in Computer Vision and Machine Learning
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shahrukhathar.github.io/" # the base hostname & protocol for your site
 twitter_username: shahrukh_athar
 github_username:  srxdev0619
