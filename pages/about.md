@@ -35,7 +35,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp; [Paper](https://openreview.net/pdf?id=HJGciiR5Y7) [Code](https://github.com/srxdev0619/Latent_Convolutional_Models)
 
 <br/><br/>
-<hr style="height:1px">
+<hr style="height:1px;border:none">
 <br/>
 
 <img align="left" src="/images/Teaser_WeakSup.png" height="137px" width="277px">
