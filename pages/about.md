@@ -11,7 +11,7 @@ permalink: /about/
 &nbsp; &nbsp; [Stony Brook University](https://www.stonybrook.edu/)<br/>
 <br/>
 <br/>
-<br/>
+<br>
 
 
 
