@@ -14,7 +14,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 # Publications
 
-<img align="left" src="/images/Teaser_LCM.png" height="100px" width="204px">
+<img align="left" src="/images/Teaser_LCM.png" height="136px" width="277px">
  &nbsp; &nbsp; [Latent Convolutional Models](http://shahrukhathar.github.io/2018/06/06/LCM.html)<br/>
  &nbsp; &nbsp; ShahRukh Athar, Evgeny Burnaev, Victor Lempitsky<br/>
  &nbsp; &nbsp; *International Conference on Learning Representations (ICLR), 2019*<br/>
