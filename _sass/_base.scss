@@ -206,10 +206,10 @@ pre {
 }
 
 .btn {
-    color: #ed3330 !important;
+    color: #3088ed !important;
     background: #ffff;
-    border: 2px solid #ed3330;
-    padding-top: 4px;
+    border: 2px solid #3088ed;
+    padding-top: 2px;
     padding-bottom: 8px;
     padding-left: 10px;
     padding-right: 10px;
@@ -219,12 +219,13 @@ pre {
     }
 
 .btn:hover {
-    background: #434343;
-    border-color: #434343 !important;
+    background: #3088ed;
+    border-color: #3088ed !important;
     color: #fff !important;
     letter-spacing: 1px;
     -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
     -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
     box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
     transition: all 0.4s ease 0s;
+    text-decoration: none;
     }
