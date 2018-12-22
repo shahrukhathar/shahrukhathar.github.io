@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+does_not_need_title: true
 permalink: /about/
 ---
 <img src="/images/IMG_2922.jpg" height="195px" width="186px" ><br/>
