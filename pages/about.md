@@ -32,7 +32,9 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp; [Latent Convolutional Models](http://shahrukhathar.github.io/2018/06/06/LCM.html)<br/>
  &nbsp; &nbsp; ShahRukh Athar, Evgeny Burnaev, Victor Lempitsky<br/>
  &nbsp; &nbsp; *International Conference on Learning Representations (ICLR), 2019*<br/>
- &nbsp; &nbsp; [Paper](https://openreview.net/pdf?id=HJGciiR5Y7) [Code](https://github.com/srxdev0619/Latent_Convolutional_Models)
+ &nbsp; &nbsp; [button url="https://openreview.net/pdf?id=HJGciiR5Y7"]
+ 
+ [Paper](https://openreview.net/pdf?id=HJGciiR5Y7) [Code](https://github.com/srxdev0619/Latent_Convolutional_Models)
 
 <br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
