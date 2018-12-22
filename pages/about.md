@@ -24,8 +24,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 &nbsp;
 <br>
-&nbsp;
-<br>
+
 
 # Publications
 
