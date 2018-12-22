@@ -44,4 +44,4 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp; ShahRukh Athar, Abhishek Vahadane, Ameya Joshi, Tathagato Rai Dastidar<br/>
  &nbsp; &nbsp; *International Symposium on Biomedical Imaging (ISBI), 2018*<br/>
  
- &nbsp; &nbsp;  [Paper](https://ieeexplore.ieee.org/abstract/document/8363849){: .btn}
+ &nbsp; &nbsp;  [Paper](https://www.researchgate.net/profile/Tathagato_Rai_Dastidar/publication/324653449_WEAKLY_SUPERVISED_FLUID_FILLED_REGION_LOCALIZATION_IN_RETINAL_OCT_SCANS/links/5ad9e323aca272fdaf82596d/WEAKLY-SUPERVISED-FLUID-FILLED-REGION-LOCALIZATION-IN-RETINAL-OCT-SCANS.pdf){: .btn}
