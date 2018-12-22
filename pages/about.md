@@ -8,7 +8,9 @@ permalink: /about/
 &nbsp; &nbsp; **ShahRukh Athar**<br/>
 &nbsp; &nbsp; Ph.D. Student<br/>
 &nbsp; &nbsp; [Department of Computer Science](https://www.cs.stonybrook.edu/)<br/>
-&nbsp; &nbsp; [Stony Brook University](https://www.stonybrook.edu/)<br>\
+&nbsp; &nbsp; [Stony Brook University](https://www.stonybrook.edu/)<br>
+
+
 <br>
 <br/>
 <br/>
