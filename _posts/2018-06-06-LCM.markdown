@@ -4,7 +4,7 @@ title:  "Latent Convolutional Models"
 author: ShahRukh Athar, Evgeny Burnaev and Victor Lempitsky
 ---
 <p>
-<a href="http://shahrukhathar.github.io/" target="_blank">ShahRukh Athar</a>, 
+<a href="http://shahrukhathar.github.io/about/" target="_blank">ShahRukh Athar</a>, 
 <a href="https://faculty.skoltech.ru/people/evgenyburnaev" target="_blank">Evgeny Burnaev</a> and
 <a href="http://sites.skoltech.ru/compvision/members/vilem/" target="_blank">Victor Lempitsky</a>
 </p>
