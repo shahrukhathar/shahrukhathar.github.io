@@ -84,7 +84,7 @@ Figures 5 and 6 show qualitative and quantitative results of inpainting, super-r
 # Additional Resources
 
 - [Code](https://github.com/srxdev0619/Latent_Convolutional_Models)
-- [Paper](https://drive.google.com/file/d/1EAnnAiUyJkIpCKtLhaG4Of7xgvLj58oZ/view)
+- [Paper](https://openreview.net/pdf?id=HJGciiR5Y7)
 
 
 # References
