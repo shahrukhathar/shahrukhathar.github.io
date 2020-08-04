@@ -33,7 +33,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp; [Self-Supervised Deformation Modeling for Facial Expression Editing.](https://arxiv.org/abs/1911.00735)<br/>
  &nbsp; &nbsp; ShahRukh Athar, Zhixin Shu, Dimitris Samaras<br/>
  &nbsp; &nbsp; *15th IEEE International Conference on Automatic Face and Gesture Recognition*<br/> 
- &nbsp; &nbsp; (FG 2020)*<br/>
+ &nbsp; &nbsp; *(FG 2020)* <br/>
  
  &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/1911.00735){: .btn} [Code (Coming Soon!)](https://github.com/srxdev0619/Latent_Convolutional_Models){: .btn}
 
