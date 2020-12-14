@@ -12,7 +12,7 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 
 <p>
 <a href="">
-<img height-"100" width="78" src="/images/FaceDet3D/paper-thumb.png"
+<img height-"100" width="78" src="/images/FaceDet3D/paper-thumb.png"/>
 <br>
 Paper
 <br>
