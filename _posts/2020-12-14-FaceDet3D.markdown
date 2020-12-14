@@ -17,6 +17,7 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
       <figcaption>Paper</figcaption>
   </figure>
   </a>
+  &nbsp;
   <a href="http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html">
     <figure style="display:inline-block;">
       <img height="100" width="100" src="/images/github.png">
