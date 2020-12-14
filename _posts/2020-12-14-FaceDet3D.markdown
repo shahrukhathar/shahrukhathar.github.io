@@ -12,17 +12,18 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 
 <p align="center">
 <a href="http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html">
+<figure>
 <img height="100" width="78" src="/images/FaceDet3D/paper-thumb.png">
-<br>
-Paper
-<br>
+<figcaption>Paper</figcaption>
+</figure>
 </a>
-<a href="http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html" style="pointer-events: none">
-<img height="100" width="78" src="/images/github.png">
-<br>
-Code (On the way!)
-<br>
+<a href="http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html">
+<figure>
+<img height="100" width="100" src="/images/github.png">
+<figcaption>Code (On the way!)</figcaption>
+</figure>
 </a>
+
 </p>
 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
