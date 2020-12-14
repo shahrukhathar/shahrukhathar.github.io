@@ -11,10 +11,16 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 </p>
 
 <p align="center">
-<a href="">
+<a href="http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html">
 <img height="100" width="78" src="/images/FaceDet3D/paper-thumb.png">
 <br>
 Paper
+<br>
+</a>
+<a href="http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html" style="pointer-events: none">
+<img height="100" width="78" src="/images/github.png">
+<br>
+Code (On the way!)
 <br>
 </a>
 </p>
@@ -38,11 +44,3 @@ Facial Expressions induce a variety of high-level details on the 3D face geometr
 ```
 
 ```
-
-# Additional Resources
-
-- [Code](https://github.com/srxdev0619/FaceDet3D)
-- [Paper](wwww.google.com)
-
-
-# References
