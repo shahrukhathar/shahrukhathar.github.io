@@ -10,14 +10,13 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 <a href="https://www3.cs.stonybrook.edu/~samaras/" target="_blank">Dimitris Samaras</a>,
 </p>
 
-<p>
+<p align="center">
 <a href="">
 <img height="100" width="78" src="/images/FaceDet3D/paper-thumb.png">
 <br>
 Paper
 <br>
 </a>
-<img height="100" width="78" src="/images/FaceDet3D/paper-thumb.png"/>
 </p>
 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
