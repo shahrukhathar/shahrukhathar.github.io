@@ -10,13 +10,13 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 <a href="https://www3.cs.stonybrook.edu/~samaras/" target="_blank">Dimitris Samaras</a>,
 </p>
 
-<div class="embed-container">
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
   <iframe
-      width="100%"
-      height="100%"
       src="https://drive.google.com/file/d/1nkQblkuEqC-CZO2xaI4DT9HqbGqckH2o/preview"
       frameborder="0"
-      allowfullscreen="">
+      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
+      width="100%" height="100%" 
+      allowfullscreen allow="autoplay">
   </iframe>
 </div>
 <sub font-size="small">Predicting and Rendering Expression conditioned Facial Details:  In the first row, the first column is the input image, the second is the output rendering with facial details, the third is the output rendering without facial details,  the fourth is the shaded geometry with details and the fifth is the shaded geometry without details. In the second row, a subset of predicted details, both on the detailed shaded geometry and the rendering, are marked with green rectangles and zoomed-in. Beside the zoomed-in details are plotted the zoom-ins of the same regions of the face without the details (marked with red rectangles) of both the non-detailed shading and the non-detailed rendering.</sub>
