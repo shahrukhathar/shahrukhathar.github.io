@@ -17,8 +17,8 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 Paper
 <br>
 </a>
-</p>
 <img height="100" width="78" src="/images/FaceDet3D/paper-thumb.png"/>
+</p>
 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
   <iframe
