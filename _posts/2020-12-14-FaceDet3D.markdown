@@ -46,12 +46,21 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 
 
 <div align="center">
+<br>
 <h1 style="text-align: center">Abstract</h1>
+<br>
+<br>
 </div>
 
 Facial Expressions induce a variety of high-level details on the 3D face geometry. For example, a smile causes the wrinkling of cheeks or the formation of dimples, while being angry often causes wrinkling of the forehead. Morphable Models (3DMMs) of the human face fail to capture such fine details in their PCA-based representations  and consequently cannot generate such details when  used to edit expressions. In this work, we introduce FaceDet3D, a first-of-its-kind method that generates - from a single image - geometric facial details that are consistent with any desired target expression.  The facial details are represented as a vertex displacement map and used then by a Neural Renderer to photo-realistically render novel images of any single image in any desired expression and view. 
 
-# Results
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Results</h1>
+<br>
+<br>
+</div>
 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
   <iframe
