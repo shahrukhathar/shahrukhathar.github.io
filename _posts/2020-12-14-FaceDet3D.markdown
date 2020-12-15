@@ -42,7 +42,7 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 <br>
 <div align="center">
   <br>
-  <p style="font-size:30px"><i><b>TL;DR </b> From single images, we predict facial geometric details that are consistent with any given target expression and photo-realistically render them using Neural Rendering.</i></p>
+  <p style="font-size:18px"><i><b>TL;DR </b> From single images, we predict facial geometric details that are consistent with any given target expression and photo-realistically render them using Neural Rendering.</i></p>
   <br>
   <br>
 </div>
