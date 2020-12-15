@@ -9,7 +9,8 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 <a href="http://www.iri.upc.edu/people/fmoreno/" target="_blank">Francesc Moreno-Noguer</a>,
 <a href="https://www3.cs.stonybrook.edu/~samaras/" target="_blank">Dimitris Samaras</a>,
 </p>
-
+<br>
+<br>
 <div align="center">
   <a href="http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html">
     <figure style="display:inline-block;">
