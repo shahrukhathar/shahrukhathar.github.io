@@ -70,7 +70,8 @@ Facial Expressions induce a variety of high-level details on the 3D face geometr
       allowfullscreen allow="autoplay">
   </iframe>
 </div>
-
+<br>
+<br>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
   <iframe
       src="https://drive.google.com/file/d/1IthdJ50U6BnrVSwzzBc_HPJKkSZOKxiT/preview"
@@ -80,7 +81,8 @@ Facial Expressions induce a variety of high-level details on the 3D face geometr
       allowfullscreen allow="autoplay">
   </iframe>
 </div>
-
+<br>
+<br>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
   <iframe
       src="https://drive.google.com/file/d/1hCc3vL8LN4X1bCzKoDBNEnd24Nb9ycCT/preview"
