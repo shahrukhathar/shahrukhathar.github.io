@@ -58,7 +58,7 @@ Facial Expressions induce a variety of high-level details on the 3D face geometr
 <br>
 <div align="center">
 <br>
-<h1 style="text-align: center">Results</h1>
+<h1 style="text-align: center">Some Results</h1>
 </div>
 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
