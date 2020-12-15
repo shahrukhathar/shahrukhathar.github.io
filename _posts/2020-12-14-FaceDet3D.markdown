@@ -39,7 +39,7 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 
 <div align="center">
   <br>
-  <i><b>TL;DR </b> We generate expression-conditioned facial geometric details for any given target expression from single images.</i>
+  <i><b>TL;DR </b> We generate expression conditioned facial geometric details for any given target expression from single images.</i>
   <br>
   <br>
 </div>
