@@ -40,7 +40,7 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 <br>
 <div align="center">
   <br>
-  <i><b>TL;DR </b> We generate expression conditioned facial geometric details for any given target expression from single images.</i>
+  <i><b>TL;DR </b> From single images we predict facial geometric details that are consistent with any given target expression.</i>
   <br>
   <br>
 </div>
