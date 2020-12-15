@@ -60,6 +60,8 @@ Facial Expressions induce a variety of high-level details on the 3D face geometr
 <h1 style="text-align: center">Some Results</h1>
 </div>
 
+FaceDet3D renders the predicted details consistently across different views.
+
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
   <iframe
       src="https://drive.google.com/file/d/1Ac1m2HXys4mreRh4l9WO9Y4pvbes0-On/preview"
