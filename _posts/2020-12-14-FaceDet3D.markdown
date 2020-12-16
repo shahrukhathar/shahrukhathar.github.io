@@ -60,7 +60,7 @@ Facial Expressions induce a variety of high-level details on the 3D face geometr
 <h1 style="text-align: center">Some Results</h1>
 </div>
 
-FaceDet3D renders the predicted details consistently across different views.
+FaceDet3D renders the predicted details consistently across different views. Please watch at 720p.
 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
   <iframe
@@ -96,5 +96,11 @@ FaceDet3D renders the predicted details consistently across different views.
 
 # Citation
 ```
+@article{Athar2020,
+    title={FaceDet3D: Facial Expressions with 3D Geometric Detail Prediction},
+    author={Athar, ShahRukh and Pumarola, Albert and Moreno-Noguer, Francesc and Samaras, Dimitris},
+    journal={arXiv preprint arXiv:2012.07999},
+    year={2020}
+} 
 
 ```
