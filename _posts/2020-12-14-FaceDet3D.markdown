@@ -93,8 +93,11 @@ FaceDet3D renders the predicted details consistently across different views. Ple
       allowfullscreen allow="autoplay">
   </iframe>
 </div>
-
-# Citation
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Citation</h1>
+</div>
 ```
 @article{Athar2020,
     title={FaceDet3D: Facial Expressions with 3D Geometric Detail Prediction},
