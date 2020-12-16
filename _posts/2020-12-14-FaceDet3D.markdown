@@ -7,7 +7,7 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
 <a href="http://shahrukhathar.github.io/about/" target="_blank">ShahRukh Athar</a>,
 <a href="https://www.albertpumarola.com/#page" target="_blank">Albert Pumarola</a>, 
 <a href="http://www.iri.upc.edu/people/fmoreno/" target="_blank">Francesc Moreno-Noguer</a>,
-<a href="https://www3.cs.stonybrook.edu/~samaras/" target="_blank">Dimitris Samaras</a>,
+<a href="https://www3.cs.stonybrook.edu/~samaras/" target="_blank">Dimitris Samaras</a>
 </p>
 <br>
 <br>
