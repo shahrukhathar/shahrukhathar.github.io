@@ -39,6 +39,17 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
 <br/>
 
+<img align="left" src="/images/VarTransLArch.png" height="110px" width="277px">
+ &nbsp; &nbsp; [Variational Transfer Learning for Fine-grained Few-shot Visual Recognition](https://arxiv.org/abs/2010.03255)<br/>
+ &nbsp; &nbsp;  Jingyi Xu, Mingzhen Huang, ShahRukh Athar, Dimitris Samaras<br/>
+ &nbsp; &nbsp; *arXiv:2010.03255*<br/> 
+ 
+ &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2010.03255){: .btn} [Code (Coming Soon!)](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}
+
+<br/><br/>
+<hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
+<br/>
+
 
 <img align="left" src="/images/defgan.png" height="223px" width="277px">
  &nbsp; &nbsp; [Self-Supervised Deformation Modeling for Facial Expression Editing](https://arxiv.org/abs/1911.00735)<br/>
