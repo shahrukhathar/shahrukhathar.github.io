@@ -35,7 +35,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  
  &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2012.07999){: .btn} [Project Page](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}  [Code (Coming Soon!)](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}
 
-<br/><br/><br/><br/>
+<br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
 <br/>
 
