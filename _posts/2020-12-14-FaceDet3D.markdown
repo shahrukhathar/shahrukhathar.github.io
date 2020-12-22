@@ -99,7 +99,7 @@ FaceDet3D renders the predicted details consistently across different views. Ple
 <br>
 <h1 style="text-align: center">Acknowledgements</h1>
 </div>
-This work is supported in part by a Google Daydream Research award, by the Spanish government with  projects HuMoUR TIN2017-90086-R and María de Maeztu Seal of Excellence MDM-2016-0656, by NSF-IUCRC on CVDI, Medpod Inc, and by NICHD 1R21 HD93912-01A1. 
+This work is supported in part by a Google Daydream Research award, by the Spanish government with  projects HuMoUR TIN2017-90086-R and María de Maeztu Seal of Excellence MDM-2016-0656, by NSF-IUCRC on CVDI, Medpod Inc, by NICHD 1R21 HD93912-01A1, the Partner University Fund, and the SUNY2020 Infrastructure Transportation Security Center. 
 
 
 
