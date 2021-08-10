@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FLAME-in-NeRF: Neural control of Radiance Fields for Free View Face Animation'
+title: '<img height="20" width="16" src="/images/FLAMEinNeRF/fire.png">FLAME-in-NeRF<img height="20" width="16" src="/images/FLAMEinNeRF/fire.png">: Neural control of Radiance Fields for Free View Face Animation'
 author: ShahRukh Athar, Zhixin Shu Dimitris Samaras
 ---
 <!--h1 align="left"><img height="20" width="16" src="/images/FLAMEinNeRF/fire.png">FLAME-in-NeRF<img height="20" width="16" src="/images/FLAMEinNeRF/fire.png">: Neural control of Radiance Fields for Free View Face Animation</h1-->
