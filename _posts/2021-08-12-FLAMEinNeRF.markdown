@@ -3,7 +3,7 @@ layout: post
 title: ""
 author: ShahRukh Athar, Zhixin Shu Dimitris Samaras
 ---
-<h1 align="center"><img height="15" width="12" src="/images/FLAMEinNeRF/fire.png">FLAME-in-NeRF<img height="15" width="12" src="/images/FLAMEinNeRF/fire.png">: Neural control of Radiance Fields for Free View Face Animation</h1>
+<h1 align="left"><img height="20" width="16" src="/images/FLAMEinNeRF/fire.png">FLAME-in-NeRF<img height="15" width="12" src="/images/FLAMEinNeRF/fire.png">: Neural control of Radiance Fields for Free View Face Animation</h1>
 <p>
 <a href="http://shahrukhathar.github.io/about/" target="_blank">ShahRukh Athar</a>,
 <a href="https://zhixinshu.github.io/" target="_blank">Zhixin Shu</a>, 
