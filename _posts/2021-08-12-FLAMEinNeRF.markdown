@@ -36,6 +36,19 @@ author: ShahRukh Athar, Zhixin Shu Dimitris Samaras
       allowfullscreen allow="autoplay">
   </iframe>
 </div>
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+  <iframe
+      src="https://drive.google.com/file/d/10aIndNUQ79TNsejosviDE5qDHw7aRBdQ/preview"
+      frameborder="0"
+      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
+      allowfullscreen allow="autoplay">
+  </iframe>
+</div>
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video src="/videos/FLAMEinNeRF/Subj4_Drive.avi" poster="/videos/FLAMEinNeRF/Subj4_thumb.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
 <p style="font-size:12px"><i><b>FLAME-in-NeRF:</b>  Our method enables expression-based reanimation of Portrait Neural Radiance Fields (NeRFs). On the right is the driving video from which expression parameters are drive the reanimated output of our method, which is shown on the left. As can be seen, the reanimated frames retain high fidelity to the target expression of the driving frame while, while simultaneously, respecting the individual characteristics of each subject.</i></p>
 
 <br>
