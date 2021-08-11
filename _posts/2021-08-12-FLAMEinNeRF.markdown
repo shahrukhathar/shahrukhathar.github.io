@@ -29,7 +29,7 @@ author: ShahRukh Athar, Zhixin Shu Dimitris Samaras
 <br>
 <br>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FLAMEinNeRF/Subj4_Drive.avi" poster="/videos/FLAMEinNeRF/Subj4_thumb.png" controls>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FLAMEinNeRF/Subj4_Drive.mp4" poster="/videos/FLAMEinNeRF/Subj4_thumb.png" controls>
   This is fallback content to display for user agents that do not support the video tag.
 </video>
 </div>
