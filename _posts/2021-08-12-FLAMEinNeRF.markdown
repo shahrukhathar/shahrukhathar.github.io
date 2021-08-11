@@ -19,7 +19,7 @@ author: ShahRukh Athar, Zhixin Shu Dimitris Samaras
   </figure>
   </a>
   &nbsp;
-  <a href="http://shahrukhathar.github.io/2021/06/28/FaceDet3D.html">
+  <a href="http://shahrukhathar.github.io/2021/08/12/FLAMEinNeRF.html">
     <figure style="display:inline-block;">
       <img height="100" width="100" src="/images/github.png">
       <figcaption>Code (On the way!)</figcaption>
@@ -29,23 +29,7 @@ author: ShahRukh Athar, Zhixin Shu Dimitris Samaras
 <br>
 <br>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-  <iframe
-      src="https://drive.google.com/file/d/10aIndNUQ79TNsejosviDE5qDHw7aRBdQ/preview"
-      frameborder="0"
-      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-      allowfullscreen allow="autoplay">
-  </iframe>
-</div>
-<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-  <iframe
-      src="https://drive.google.com/file/d/10aIndNUQ79TNsejosviDE5qDHw7aRBdQ/preview"
-      frameborder="0"
-      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-      allowfullscreen allow="autoplay">
-  </iframe>
-</div>
-<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-<video src="/videos/FLAMEinNeRF/Subj4_Drive.avi" poster="/videos/FLAMEinNeRF/Subj4_thumb.png" controls>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FLAMEinNeRF/Subj4_Drive.avi" poster="/videos/FLAMEinNeRF/Subj4_thumb.png" controls>
   This is fallback content to display for user agents that do not support the video tag.
 </video>
 </div>
