@@ -65,68 +65,37 @@ We demonstrate the effectiveness of our method on free view synthesis of portrai
 Below we show reanimation results across different subjects.
 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-  <iframe
-      src="https://drive.google.com/file/d/1-bmWJ8gBKyPUnUViUAVtFeWy7F22lgO1/preview"
-      frameborder="0"
-      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-      width="100%" height="100%" 
-      allowfullscreen allow="autoplay">
-  </iframe>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FLAMEinNeRF/Subj1_Drive.mp4" poster="/videos/FLAMEinNeRF/Subj1_thumb.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
 </div>
 <br>
 <br>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-  <iframe
-      src="https://drive.google.com/file/d/1AiSy2M7emLMtfWeSnWBenW2ItfCtVhv4/preview"
-      frameborder="0"
-      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-      width="100%" height="100%" 
-      allowfullscreen allow="autoplay">
-  </iframe>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FLAMEinNeRF/Subj2_Drive.mp4" poster="/videos/FLAMEinNeRF/Subj2_thumb.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
 </div>
 <br>
 <br>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-  <iframe
-      src="https://drive.google.com/file/d/1_Rorr1uvL9paD6JZ2_2T0yFLcNSU3b5i/preview"
-      frameborder="0"
-      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-      width="100%" height="100%" 
-      allowfullscreen allow="autoplay">
-  </iframe>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FLAMEinNeRF/Subj3_Drive.mp4" poster="/videos/FLAMEinNeRF/Subj3_thumb.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
 </div>
 <br>
 <br>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-  <iframe
-      src="https://drive.google.com/file/d/10aIndNUQ79TNsejosviDE5qDHw7aRBdQ/preview"
-      frameborder="0"
-      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-      width="100%" height="100%" 
-      allowfullscreen allow="autoplay">
-  </iframe>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FLAMEinNeRF/Subj2_Drive_2.mp4" poster="/videos/FLAMEinNeRF/Subj2_Drive2_thumb.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
 </div>
 <br>
 <br>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-  <iframe
-      src="https://drive.google.com/file/d/11BFZXVYx22hijC_GxbzhUrkKVDHVDL8v/preview"
-      frameborder="0"
-      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-      width="100%" height="100%" 
-      allowfullscreen allow="autoplay">
-  </iframe>
-</div>
-<br>
-<br>
-<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-  <iframe
-      src="https://drive.google.com/file/d/15OzbA-N_2UzkHJ68J8VODrln63tv3kND/preview"
-      frameborder="0"
-      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-      width="100%" height="100%" 
-      allowfullscreen allow="autoplay">
-  </iframe>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FLAMEinNeRF/Subj4_Drive_2.mp4" poster="/videos/FLAMEinNeRF/Subj4__Drive2_thumb.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
 </div>
 <br>
 <div align="center">
