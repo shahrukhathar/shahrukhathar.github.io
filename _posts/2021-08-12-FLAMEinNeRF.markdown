@@ -12,7 +12,7 @@ author: ShahRukh Athar, Zhixin Shu Dimitris Samaras
 <br>
 <br>
 <div align="center">
-  <a href="https://arxiv.org/abs/2012.07999">
+  <a href="https://arxiv.org/abs/2108.04913">
     <figure style="display:inline-block;">
       <img height="100" width="78" src="/images/FLAMEinNeRF/paper-thumb.png">
       <figcaption>Paper</figcaption>
@@ -93,7 +93,7 @@ Below we show reanimation results across different subjects.
 <br>
 <br>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FLAMEinNeRF/Subj4_Drive_2.mp4" poster="/videos/FLAMEinNeRF/Subj4__Drive2_thumb.png" controls>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FLAMEinNeRF/Subj4_Drive_2.mp4" poster="/videos/FLAMEinNeRF/Subj4_Drive2_thumb.png" controls>
   This is fallback content to display for user agents that do not support the video tag.
 </video>
 </div>
