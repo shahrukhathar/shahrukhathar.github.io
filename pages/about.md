@@ -28,6 +28,17 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 # Publications
 
+<img align="left" src="/images/FLAMEinNeRF/teaser.png" height="131px" width="277px">
+ &nbsp; &nbsp; [FLAME-in-NeRF: Neural control of Radiance Fields for Free View Face Animation](https://arxiv.org/abs/2108.04913)<br/>
+ &nbsp; &nbsp;  ShahRukh Athar, Zhixin Shu, Dimitris Samaras<br/>
+ &nbsp; &nbsp; *arXiv:2108.04913*<br/> 
+ 
+ &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2108.04913){: .btn} [Project Page](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}  [Code (Coming Soon!)](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}
+
+<br/><br/>
+<hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
+<br/>
+
 <img align="left" src="/images/FaceDet3D-TeaserWhite_v15_enmask.png" height="131px" width="277px">
  &nbsp; &nbsp; [FaceDet3D: Facial Expressions with 3D Geometric Detail Prediction](https://arxiv.org/abs/2012.07999)<br/>
  &nbsp; &nbsp;  ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samaras<br/>
@@ -41,8 +52,8 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/VarTransLArch.png" height="110px" width="277px">
  &nbsp; &nbsp; [Variational Transfer Learning for Fine-grained Few-shot Visual Recognition](https://arxiv.org/abs/2010.03255)<br/>
- &nbsp; &nbsp;  Jingyi Xu, Mingzhen Huang, ShahRukh Athar, Dimitris Samaras<br/>
- &nbsp; &nbsp; *arXiv:2010.03255*<br/> 
+ &nbsp; &nbsp;  Jingyi Xu, Hieu Le, Mingzhen Huang, ShahRukh Athar, Dimitris Samaras<br/>
+ &nbsp; &nbsp; *ICCV 2021*<br/> 
  
  &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2010.03255){: .btn} [Code (Coming Soon!)](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}
 

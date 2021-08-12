@@ -3,6 +3,11 @@ layout: post
 title:  "FaceDet3D: Facial Expressions with 3D Geometric Detail Prediction"
 author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samaras
 ---
+
+<head>
+  <title>FaceDet3D: Facial Expressions with 3D Geometric Detail Prediction</title>
+</head>
+
 <p>
 <a href="http://shahrukhathar.github.io/about/" target="_blank">ShahRukh Athar</a>,
 <a href="https://www.albertpumarola.com/#page" target="_blank">Albert Pumarola</a>, 
