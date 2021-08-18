@@ -28,6 +28,17 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 # Publications
 
+<img align="left" src="/images/SIDER/teaser.png" height="131px" width="277px">
+ &nbsp; &nbsp; [SIDER: Single-Image Neural Optimization for Facial Geometric Detail Recovery](https://arxiv.org/abs/2108.05465)<br/>
+ &nbsp; &nbsp;  Aggelina Chatziagapi, ShahRukh Athar, Francesc Moreno-Noguer, Dimitris Samaras<br/>
+ &nbsp; &nbsp; *arXiv:2108.04913*<br/> 
+ 
+ &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2108.05465){: .btn}
+
+<br/><br/>
+<hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
+<br/>
+
 <img align="left" src="/images/FLAMEinNeRF/teaser.png" height="131px" width="277px">
  &nbsp; &nbsp; [FLAME-in-NeRF: Neural control of Radiance Fields for Free View Face Animation](https://arxiv.org/abs/2108.04913)<br/>
  &nbsp; &nbsp;  ShahRukh Athar, Zhixin Shu, Dimitris Samaras<br/>
