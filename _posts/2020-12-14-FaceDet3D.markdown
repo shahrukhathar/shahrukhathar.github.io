@@ -62,38 +62,24 @@ Facial Expressions induce a variety of high-level details on the 3D face geometr
 <h1 style="text-align: center">Some Results</h1>
 </div>
 
-FaceDet3D renders the predicted details consistently across different views. Please watch at 720p.
+FaceDet3D renders the predicted details consistently across different identites and expressions. Please watch at 720p.
 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-  <iframe
-      src="https://drive.google.com/file/d/1Ac1m2HXys4mreRh4l9WO9Y4pvbes0-On/preview"
-      frameborder="0"
-      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-      width="100%" height="100%" 
-      allowfullscreen allow="autoplay">
-  </iframe>
+ <video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FaceDet3D/005_happy.mp4" poster="/videos/FaceDet3D/005_happy_thumb.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
 </div>
 <br>
 <br>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-  <iframe
-      src="https://drive.google.com/file/d/1IthdJ50U6BnrVSwzzBc_HPJKkSZOKxiT/preview"
-      frameborder="0"
-      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-      width="100%" height="100%" 
-      allowfullscreen allow="autoplay">
-  </iframe>
+  <video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FaceDet3D/008_anger.mp4" poster="/videos/FaceDet3D/008_anger_thumb.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</div>
 </div>
 <br>
 <br>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-  <iframe
-      src="https://drive.google.com/file/d/1hCc3vL8LN4X1bCzKoDBNEnd24Nb9ycCT/preview"
-      frameborder="0"
-      style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
-      width="100%" height="100%" 
-      allowfullscreen allow="autoplay">
-  </iframe>
+  <video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FaceDet3D/003_happy.mp4" poster="/videos/FaceDet3D/003_happy_thumb.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
 </div>
 
 <br>
