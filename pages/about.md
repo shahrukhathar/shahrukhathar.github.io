@@ -44,7 +44,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp;  ShahRukh Athar, Zhixin Shu, Dimitris Samaras<br/>
  &nbsp; &nbsp; *arXiv:2108.04913*<br/> 
  
- &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2108.04913){: .btn} [Project Page](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}  
+ &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2108.04913){: .btn} [Project Page](http://shahrukhathar.github.io/2021/08/12/FLAMEinNeRF.html)){: .btn}  
 
 <br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
