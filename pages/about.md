@@ -66,7 +66,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp;  Jingyi Xu, Hieu Le, Mingzhen Huang, ShahRukh Athar, Dimitris Samaras<br/>
  &nbsp; &nbsp; *ICCV 2021*<br/> 
  
- &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2010.03255){: .btn} [Code (Coming Soon!)](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}
+ &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2010.03255){: .btn} 
 
 <br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
