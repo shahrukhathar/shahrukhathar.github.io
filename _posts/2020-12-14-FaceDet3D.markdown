@@ -38,7 +38,7 @@ author: ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samara
   This is fallback content to display for user agents that do not support the video tag.
 </video>
 </div>
-<p style="font-size:12px"><i><b>Predicting and Rendering Expression conditioned Facial Details:</b>  In the first row, the first column is the input image, the second is the output rendering with facial details, the third is the output rendering without facial details,  the fourth is the shaded geometry with details and the fifth is the shaded geometry without details. In the second row, a subset of predicted details, both on the detailed shaded geometry and the rendering, are marked with green rectangles and zoomed-in. Beside the zoomed-in details are plotted the zoom-ins of the same regions of the face without the details (marked with red rectangles) of both the non-detailed shading and the non-detailed rendering.</i> (Please watch at 720p)</p>
+<p style="font-size:12px"><i><b>Predicting and Rendering Expression conditioned Facial Details:</b>  In the first row, the first column is the input image, the second is the output rendering with facial details, the third is the output rendering without facial details,  the fourth is the shaded geometry with details and the fifth is the shaded geometry without details. In the second row, a subset of predicted details, both on the detailed shaded geometry and the rendering, are marked with green rectangles and zoomed-in. Beside the zoomed-in details are plotted the zoom-ins of the same regions of the face without the details (marked with red rectangles) of both the non-detailed shading and the non-detailed rendering.
 
 <br>
 <div align="center">
@@ -62,8 +62,7 @@ Facial Expressions induce a variety of high-level details on the 3D face geometr
 <h1 style="text-align: center">Some Results</h1>
 </div>
 
-FaceDet3D renders the predicted details consistently across different identites and expressions. Please watch at 720p.
-
+FaceDet3D renders the predicted details consistently across different identites and expressions. 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
  <video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/FaceDet3D/005_happy.mp4" poster="/videos/FaceDet3D/005_happy_thumb.png" controls>
   This is fallback content to display for user agents that do not support the video tag.
