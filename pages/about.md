@@ -31,7 +31,8 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <img align="left" src="/images/SIDER/teaser.png" height="131px" width="277px">
  &nbsp; &nbsp; [SIDER: Single-Image Neural Optimization for Facial Geometric Detail Recovery](https://arxiv.org/abs/2108.05465)<br/>
  &nbsp; &nbsp;  Aggelina Chatziagapi*, ShahRukh Athar*, Francesc Moreno-Noguer, Dimitris Samaras<br/>
- &nbsp; &nbsp; *arXiv:2108.05465*<br/> 
+ &nbsp; &nbsp; *International Conference on 3D Vision, 2021*<br/> 
+  &nbsp; &nbsp; *3DV 2021*<br/> 
  
  &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2108.05465){: .btn}
 
@@ -44,7 +45,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp;  ShahRukh Athar, Zhixin Shu, Dimitris Samaras<br/>
  &nbsp; &nbsp; *arXiv:2108.04913*<br/> 
  
- &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2108.04913){: .btn} [Project Page](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}  [Code (Coming Soon!)](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}
+ &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2108.04913){: .btn} [Project Page](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}  
 
 <br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
@@ -55,7 +56,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp;  ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samaras<br/>
  &nbsp; &nbsp; *arXiv:2012.07999*<br/> 
  
- &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2012.07999){: .btn} [Project Page](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}  [Code (Coming Soon!)](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn}
+ &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2012.07999){: .btn} [Project Page](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn} 
 
 <br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
@@ -79,7 +80,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp; *15th IEEE International Conference on Automatic Face and Gesture Recognition*<br/> 
  &nbsp; &nbsp; *(FG 2020)* <br/>
  
- &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/1911.00735){: .btn} [Code (Coming Soon!)](https://github.com/srxdev0619/Latent_Convolutional_Models){: .btn}
+ &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/1911.00735){: .btn} 
 
 <br/><br/><br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
