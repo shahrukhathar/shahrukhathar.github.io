@@ -1,4 +1,8 @@
 ---
+layout: page
+title: About
+does_not_need_title: true
+permalink: /
 ---
 <img align="left" src="/images/IMG_2922.jpg" height="195px" width="186px" >
 &nbsp; &nbsp; **ShahRukh Athar**<br/>
