@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Blog
+does_not_need_title: true
+permalink: /blog/
 ---
 
 <div class="home">
