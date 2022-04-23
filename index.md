@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About
 does_not_need_title: true
 permalink: /
 ---
