@@ -10,8 +10,8 @@ youtubeIdR: mEuqGy1ZlMA
 </head>
 <p>
 <a href="http://shahrukhathar.github.io/about/" target="_blank">ShahRukh Athar</a>,
-<a href="https://cseweb.ucsd.edu/~zex014/" target="_blank">Zexiang Xu </a>,
-<a href="http://www.kalyans.org/">  Kalyan Sunkavalli</a>,
+<a href="https://cseweb.ucsd.edu/~zex014/" target="_blank">Zexiang Xu</a>,
+<a href="http://www.kalyans.org/">Kalyan Sunkavalli</a>,
 <a href="https://research.adobe.com/person/eli-shechtman/" target="_blank">Eli Shechtman</a> and
 <a href="https://zhixinshu.github.io/" target="_blank">Zhixin Shu</a> 
 </p>
