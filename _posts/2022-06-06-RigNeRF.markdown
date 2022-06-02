@@ -1,0 +1,43 @@
+---
+layout: post
+title: 'RigNeRF: Fully Controllable Neural 3D Portraits'
+author: ShahRukh Athar, Zexiang Xu, Kalyan Sunkavalli , Eli Shechtman and Zhixin Shu
+youtubeId: q-SdWAfhVSM
+---
+<head>
+  <title>RigNeRF: Fully Controllable Neural 3D Portraits</title>
+</head>
+<p>
+<a href="http://shahrukhathar.github.io/about/" target="_blank">ShahRukh Athar</a>,
+<a href="https://cseweb.ucsd.edu/~zex014/" target="_blank">Zexiang Xu </a>
+<a href="http://www.kalyans.org/">  Kalyan Sunkavalli</a>
+<a href="https://research.adobe.com/person/eli-shechtman/" target="_blank">Eli Shechtman</a>
+<a href="https://zhixinshu.github.io/" target="_blank">Zhixin Shu</a>, 
+</p>
+<br>
+<br>
+{% include youtubePlayer.html id=page.youtubeId %}
+
+<br>
+<div align="center">
+  <br>
+  <p style="font-size:17px"><i><b>TL;DR </b> RigNeRF enables control over facial expressions, head-pose and viewing direction of portrait neural radiance fields.</i></p>
+  <br>
+  <br>
+</div>
+
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Abstract</h1>
+</div>
+
+Volumetric neural rendering methods, such as neural radiance fields (NeRFs), have enabled photo-realistic novel view synthesis. However, in their standard form, NeRFs do not support the editing of objects, such as a human head, within a scene. In this work, we propose RigNeRF, a system that goes beyond just novel view synthesis and enables full control of head pose and facial expressions learned from a single portrait video. We model changes in head pose and facial expressions using a deformation field that is guided by a 3D morphable face model (3DMM). The 3DMM effectively acts as a prior for RigNeRF that learns to predict only residuals to the 3DMM deformations and allows us to render novel (rigid) poses and (non-rigid) expressions that were not present in the input sequence. Using only a smartphone-captured short video of a subject for training, we demonstrate the effectiveness of our method on free view synthesis of a portrait scene with explicit head pose and expression controls.
+
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Some Results</h1>
+</div>
+
+
