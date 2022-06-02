@@ -64,3 +64,18 @@ Below we show reanimation results across different subjects.
   <br>
   <br>
 </div>
+
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Citation</h1>
+</div>
+
+```
+@inproceedings{athar2022rignerf,
+  title={RigNeRF: Fully Controllable Neural 3D Portraits},
+  author={Athar, ShahRukh and Xu, Zexiang and Sunkavalli, Kalyan and Shechtman, Eli and Shu, Zhixin},
+  booktitle = {Computer Vision and Pattern Recognition (CVPR)},
+  year = {2022}
+}
+```
