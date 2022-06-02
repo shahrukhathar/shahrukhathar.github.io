@@ -25,7 +25,7 @@ youtubeIdR: mEuqGy1ZlMA
 </div>
 <div align="center">
   <br>
-  <p style="font-size:12px"><i><a href="https://www.youtube.com/watch?v=q-SdWAfhVSM">YouTube link (Lower-Res)</a></i></p>
+  <p style="font-size:12px"><i><a href="https://www.youtube.com/watch?v=q-SdWAfhVSM">YouTube link (Lower-Res, with captions)</a></i></p>
   <br>
   <br>
 </div>
@@ -60,7 +60,7 @@ Below we show reanimation results across different subjects.
 </div>
 <div align="center">
   <br>
-  <p style="font-size:12px"><i><a href="https://www.youtube.com/watch?v=mEuqGy1ZlMA">YouTube link (Lower-Res)</a></i></p>
+  <p style="font-size:12px"><i><a href="https://www.youtube.com/watch?v=mEuqGy1ZlMA">YouTube link (Lower-Res, with captions)</a></i></p>
   <br>
   <br>
 </div>
