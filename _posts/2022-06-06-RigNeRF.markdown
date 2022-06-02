@@ -17,7 +17,18 @@ youtubeIdR: mEuqGy1ZlMA
 </p>
 <br>
 <br>
-{% include youtubePlayer.html id=page.youtubeId %}
+
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/RigNeRF/RigNeRF-Video-captions.mp4" poster="/videos/RigNeRF/Thumbnail.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+<div align="center">
+  <br>
+  <p style="font-size:12px"><i><a href="https://www.youtube.com/watch?v=q-SdWAfhVSM">YouTube link (Lower-Res)</a></i></p>
+  <br>
+  <br>
+</div>
 
 <br>
 <div align="center">
@@ -42,4 +53,14 @@ Volumetric neural rendering methods, such as neural radiance fields (NeRFs), hav
 </div>
 Below we show reanimation results across different subjects.
 
-{% include youtubePlayer.html id=page.youtubeIdR %}
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/RigNeRF/RigNeRF-Results.mp4" poster="/videos/RigNeRF/Thumbnail.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+<div align="center">
+  <br>
+  <p style="font-size:12px"><i><a href="https://www.youtube.com/watch?v=mEuqGy1ZlMA">YouTube link (Lower-Res)</a></i></p>
+  <br>
+  <br>
+</div>
