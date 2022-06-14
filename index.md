@@ -28,6 +28,17 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 # Publications
 
+<img align="left" src="/images/RigNeRF/teaser.png" height="131px" width="277px">
+ &nbsp; &nbsp; [RigNeRF: Fully Controllable Neural 3D Portraits](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html)<br/>
+ &nbsp; &nbsp;  ShahRukh Athar, Zexiang Xu, Kalyan Sunkavalli, Eli Shechtman, Zhixin Shu<br/>
+ &nbsp; &nbsp; *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022*<br/> 
+ 
+ &nbsp; &nbsp;  [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html){: .btn}
+
+<br/><br/>
+<hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
+<br/>
+
 <img align="left" src="/images/SIDER/teaser.png" height="131px" width="277px">
  &nbsp; &nbsp; [SIDER: Single-Image Neural Optimization for Facial Geometric Detail Recovery](https://arxiv.org/abs/2108.05465)<br/>
  &nbsp; &nbsp;  Aggelina Chatziagapi\*, ShahRukh Athar\*, Francesc Moreno-Noguer, Dimitris Samaras<br/>
