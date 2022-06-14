@@ -28,7 +28,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 # Publications
 
-<img align="left" src="/images/RigNeRF/teaser.png" height="131px" width="277px">
+<img align="left" src="/images/RigNeRF/teaser.png" height="183px" width="277px">
  &nbsp; &nbsp; [RigNeRF: Fully Controllable Neural 3D Portraits](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html)<br/>
  &nbsp; &nbsp;  ShahRukh Athar, Zexiang Xu, Kalyan Sunkavalli, Eli Shechtman, Zhixin Shu<br/>
  &nbsp; &nbsp; *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022*<br/> 
