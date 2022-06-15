@@ -33,7 +33,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp;  ShahRukh Athar, Zexiang Xu, Kalyan Sunkavalli, Eli Shechtman, Zhixin Shu<br/>
  &nbsp; &nbsp; *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022*<br/> 
  
- &nbsp; &nbsp;  [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html){: .btn} [Project Page](http://shahrukhathar.github.io/2022/06/06/RigNeRF.html){: .btn}  
+ &nbsp; &nbsp;  [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html){: .btn} [arXiv](http://arxiv.org/abs/2206.06481){: .btn} [Project Page](http://shahrukhathar.github.io/2022/06/06/RigNeRF.html){: .btn}  
 
 <br/><br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">

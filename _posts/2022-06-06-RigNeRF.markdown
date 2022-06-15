@@ -19,7 +19,7 @@ youtubeIdR: mEuqGy1ZlMA
 <br>
 
 <div align="center">
-  <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html">
+  <a href="http://arxiv.org/abs/2206.06481">
     <figure style="display:inline-block;">
       <img height="100" width="78" src="/images/RigNeRF/paper-thumb.png">
       <figcaption>Paper</figcaption>
