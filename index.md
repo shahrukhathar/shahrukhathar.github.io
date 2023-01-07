@@ -53,7 +53,8 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <img align="left" src="/images/FLAMEinNeRF/teaser.png" height="131px" width="277px">
  &nbsp; &nbsp; [FLAME-in-NeRF: Neural control of Radiance Fields for Free View Face Animation](https://arxiv.org/abs/2108.04913)<br/>
  &nbsp; &nbsp;  ShahRukh Athar, Zhixin Shu, Dimitris Samaras<br/>
- &nbsp; &nbsp; *arXiv:2108.04913*<br/> 
+ &nbsp; &nbsp; *17th IEEE International Conference on Automatic Face and Gesture Recognition*<br/> 
+ &nbsp; &nbsp; *(FG 2023)* <br/> 
  
  &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2108.04913){: .btn} [Project Page](http://shahrukhathar.github.io/2021/08/12/FLAMEinNeRF.html){: .btn}  
 
