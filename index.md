@@ -28,6 +28,14 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 # Publications
 
+<img align="left" src="/images/CoDyNeRF/teaser.png" height="183px" width="277px">
+ &nbsp; &nbsp; [Controllable Dynamic Appearance for Neural 3D Portraits](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html)<br/>
+ &nbsp; &nbsp;  ShahRukh Athar,  Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, Dimitris Samaras<br/>
+
+ 
+ &nbsp; &nbsp;  [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html){: .btn} [arXiv](http://arxiv.org/abs/2206.06481){: .btn} [Project Page](http://shahrukhathar.github.io/2022/06/06/CoDyNeRF.html){: .btn}  
+
+
 <img align="left" src="/images/RigNeRF/teaser.png" height="183px" width="277px">
  &nbsp; &nbsp; [RigNeRF: Fully Controllable Neural 3D Portraits](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html)<br/>
  &nbsp; &nbsp;  ShahRukh Athar, Zexiang Xu, Kalyan Sunkavalli, Eli Shechtman, Zhixin Shu<br/>
