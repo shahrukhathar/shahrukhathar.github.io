@@ -12,7 +12,7 @@ youtubeIdR: mEuqGy1ZlMA
 <a href="http://shahrukhathar.github.io/about/" target="_blank">ShahRukh Athar</a>,
 <a href="https://zhixinshu.github.io/" target="_blank">Zhixin Shu</a> 
 <a href="https://cseweb.ucsd.edu/~zex014/" target="_blank">Zexiang Xu</a>,
-<a href="https://luanfujun.com/" target="_blank">Funjun Luan</a>, \
+<a href="https://luanfujun.com/" target="_blank">Funjun Luan</a>,
 <a href="https://sai-bi.github.io/" target="_blank">Sai Bi</a>, 
 <a href="http://www.kalyans.org/">Kalyan Sunkavalli</a> and
 <a href="https://www3.cs.stonybrook.edu/~samaras/" target="_blank">Dimitris Samaras</a> 
@@ -44,7 +44,7 @@ youtubeIdR: mEuqGy1ZlMA
 <br>
 <div align="center">
   <br>
-  <p style="font-size:17px"><i><b>TL;DR </b> RigNeRF enables control over facial expressions, head-pose and viewing direction of portrait neural radiance fields.</i></p>
+  <p style="font-size:17px"><i><b>TL;DR </b> CoDyNeRF enables the realistic reproduction of illumination effects while animating Neural 3D Portraits.</i></p>
   <br>
   <br>
 </div>
