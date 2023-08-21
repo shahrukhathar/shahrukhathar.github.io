@@ -1,0 +1,110 @@
+---
+layout: post
+title: 'Controllable Dynamic Appearance for Neural 3D Portraits'
+author: ShahRukh Athar, Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, and Dimitris Samaras
+youtubeId: q-SdWAfhVSM
+youtubeIdR: mEuqGy1ZlMA
+---
+<head>
+  <title>Controllable Dynamic Appearance for Neural 3D Portraits</title>
+</head>
+<p>
+<a href="http://shahrukhathar.github.io/about/" target="_blank">ShahRukh Athar</a>,
+<a href="https://zhixinshu.github.io/" target="_blank">Zhixin Shu</a> 
+<a href="https://cseweb.ucsd.edu/~zex014/" target="_blank">Zexiang Xu</a>,
+<a href="https://luanfujun.com/" target="_blank">Funjun Luan</a>, \
+<a href="https://sai-bi.github.io/" target="_blank">Sai Bi</a>, 
+<a href="http://www.kalyans.org/">Kalyan Sunkavalli</a> and
+<a href="https://www3.cs.stonybrook.edu/~samaras/" target="_blank">Dimitris Samaras</a> 
+</p>
+<br>
+<br>
+
+<div align="center">
+  <a href="http://arxiv.org/abs/2206.06481">
+    <figure style="display:inline-block;">
+      <img height="100" width="78" src="/images/RigNeRF/paper-thumb.png">
+      <figcaption>Paper</figcaption>
+  </figure>
+  </a>
+</div>
+
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/RigNeRF/RigNeRF-Video-captions.mp4" poster="/videos/RigNeRF/Thumbnail.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+<div align="center">
+  <br>
+  <p style="font-size:12px"><i><a href="https://www.youtube.com/watch?v=q-SdWAfhVSM">YouTube link (Lower-Res, with captions)</a></i></p>
+  <br>
+  <br>
+</div>
+
+<br>
+<div align="center">
+  <br>
+  <p style="font-size:17px"><i><b>TL;DR </b> RigNeRF enables control over facial expressions, head-pose and viewing direction of portrait neural radiance fields.</i></p>
+  <br>
+  <br>
+</div>
+
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Abstract</h1>
+</div>
+
+Recent advances in Neural Radiance Fields (NeRFs) have made it possible to reconstruct and reanimate dynamic portrait scenes with control over head-pose, facial expressions and viewing direction. However, training such models assumes photometric consistency over the deformed region e.g. the face must be evenly lit as it deforms with changing head-pose and facial expression. Such photometric consistency across frames of a video is hard to maintain, even in studio environments, thus making the created reanimatable neural portraits prone to artefacts during reanimation. In this work, we propose CoDyNeRF, a system that enables the creation of fully controllable 3D portraits in real-world capture conditions. CoDyNeRF learns to approximate illumination dependent effects via a dynamic appearance model in the canonical space that is conditioned on predicted surface normals and the facial expressions and head-pose deformations. The surface normals prediction is guided using 3DMM normals that act as a coarse prior for the normals of the human head, where direct prediction of normals is hard due to rigid and non-rigid deformations induced by head-pose and facial expression changes. Using only a smartphone-captured short video of a subject for training, we demonstrate the effectiveness of our method on free view synthesis of a portrait scene with explicit head pose and expression controls, and realistic lighting effects.
+
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Some Results</h1>
+</div>
+Compared to prior work, CoDyNeRF is able to realistically reproduce specularities, cast shadows and shading
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/RigNeRF/Spec-Comp.m4v" poster="/videos/RigNeRF/Thumbnail.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/RigNeRF/Reaim-Comp.m4v" poster="/videos/RigNeRF/Thumbnail.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+
+Below we show reanimation results across different subjects.
+
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/RigNeRF/Reanim-1.m4v" poster="/videos/RigNeRF/Thumbnail.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/RigNeRF/Reanim-2.m4v" poster="/videos/RigNeRF/Thumbnail.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+<div align="center">
+  <br>
+  <p style="font-size:12px"><i><a href="https://www.youtube.com/watch?v=mEuqGy1ZlMA">YouTube link (Lower-Res)</a></i></p>
+  <br>
+  <br>
+</div>
+
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Citation</h1>
+</div>
+
+```
+@inproceedings{athar2022rignerf,
+  title={RigNeRF: Fully Controllable Neural 3D Portraits},
+  author={Athar, ShahRukh and Xu, Zexiang and Sunkavalli, Kalyan and Shechtman, Eli and Shu, Zhixin},
+  booktitle = {Computer Vision and Pattern Recognition (CVPR)},
+  year = {2022}
+}
+``` 
