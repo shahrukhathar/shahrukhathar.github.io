@@ -30,16 +30,11 @@ youtubeIdR: mEuqGy1ZlMA
 </div>
 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/RigNeRF/RigNeRF-Video-captions.mp4" poster="/videos/RigNeRF/Thumbnail.png" controls>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/CoDyNeRF/arXiv-video.m4v" poster="/videos/CoDyNeRF/Thumbnail.png" controls>
   This is fallback content to display for user agents that do not support the video tag.
 </video>
 </div>
-<div align="center">
-  <br>
-  <p style="font-size:12px"><i><a href="https://www.youtube.com/watch?v=q-SdWAfhVSM">YouTube link (Lower-Res, with captions)</a></i></p>
-  <br>
-  <br>
-</div>
+
 
 <br>
 <div align="center">
@@ -64,13 +59,13 @@ Recent advances in Neural Radiance Fields (NeRFs) have made it possible to recon
 </div>
 Compared to prior work, CoDyNeRF is able to realistically reproduce specularities, cast shadows and shading
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/CoDyNeRF/Spec-Comp.m4v" poster="/videos/RigNeRF/Thumbnail.png" controls>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/CoDyNeRF/Spec-Comp.m4v" poster="/videos/CoDyNeRF/Thumbnail.png" controls>
   This is fallback content to display for user agents that do not support the video tag.
 </video>
 </div>
 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/CoDyNeRF/Reanim-Comp.m4v" poster="/videos/RigNeRF/Thumbnail.png" controls>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/CoDyNeRF/Reanim-Comp.m4v" poster="/videos/CoDyNeRF/Thumbnail.png" controls>
   This is fallback content to display for user agents that do not support the video tag.
 </video>
 </div>
@@ -78,20 +73,14 @@ Compared to prior work, CoDyNeRF is able to realistically reproduce specularitie
 Below we show reanimation results across different subjects.
 
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/CoDyNeRF/Reanim-1.m4v" poster="/videos/RigNeRF/Thumbnail.png" controls>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/CoDyNeRF/Reanim-1.m4v" poster="/videos/CoDyNeRF/Thumbnail.png" controls>
   This is fallback content to display for user agents that do not support the video tag.
 </video>
 </div>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/CoDyNeRF/Reanim-2.m4v" poster="/videos/RigNeRF/Thumbnail.png" controls>
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/CoDyNeRF/Reanim-2.m4v" poster="/videos/CoDyNeRF/Thumbnail.png" controls>
   This is fallback content to display for user agents that do not support the video tag.
 </video>
-</div>
-<div align="center">
-  <br>
-  <p style="font-size:12px"><i><a href="https://www.youtube.com/watch?v=mEuqGy1ZlMA">YouTube link (Lower-Res)</a></i></p>
-  <br>
-  <br>
 </div>
 
 <br>
@@ -102,9 +91,9 @@ Below we show reanimation results across different subjects.
 
 ```
 @inproceedings{athar2022rignerf,
-  title={RigNeRF: Fully Controllable Neural 3D Portraits},
-  author={Athar, ShahRukh and Xu, Zexiang and Sunkavalli, Kalyan and Shechtman, Eli and Shu, Zhixin},
-  booktitle = {Computer Vision and Pattern Recognition (CVPR)},
-  year = {2022}
+  title={Controllable Dynamic Appearance for Neural 3D Portraits},
+  author={Athar, ShahRukh and Shu, Zhixin and Xu, Zexiang and Luan, Fujun and Bi, Sai and Sunkavalli, Kalyan and Samaras, Dimitris},
+  booktitle = {arXiv},
+  year = {2023}
 }
 ``` 
