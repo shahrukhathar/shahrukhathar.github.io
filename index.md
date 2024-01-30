@@ -21,7 +21,7 @@ permalink: /
 &nbsp;
 <br>
 
-I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/) working under the supervision of [Prof. Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/). My research interests lie in computer vision and machine learning. Prior to joining SBU, I did my Masters in Data Science at [Skoltech](https://http://www.skoltech.ru/en) under the supervision of [Prof. Victor Lempitsky](http://faculty.skoltech.ru/people/victorlempitsky).  
+I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/) working under the supervision of [Prof. Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/). My research interests lie in computer vision and machine learning. Prior to joining SBU, I did my Masters in Data Science at [Skoltech](https://http://www.skoltech.ru/en) under the supervision of [Prof. Victor Lempitsky](https://scholar.google.com/citations?hl=en&user=gYYVokYAAAAJ).  
 
 
 
