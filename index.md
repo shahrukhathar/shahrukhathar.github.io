@@ -20,7 +20,7 @@ permalink: /
 <br>
 
 I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/) working under the supervision of [Prof. Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/). My research interests lie in computer vision and machine learning. Prior to joining SBU, I did my Masters in Data Science at [Skoltech](https://http://www.skoltech.ru/en) under the supervision of [Prof. Victor Lempitsky](http://faculty.skoltech.ru/people/victorlempitsky).  
-[CV](/assets/CV.pdf) &nbsp; / &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AH70aAXjD25jwKBaS182ZDRBK-mhWmnZ1G7IOJfI99ZS020zvDvRVSGI3dDaB7SG3_gMASMQsnU9fxbpJELnfzMlV9lJ12A0ySaRjK6h6JSH&user=mdUv8wcAAAAJ) &nbsp; / &nbsp; [Email](emailto:sathar@cs.stonybrook.edu)
+<p align="center"> [CV](/assets/CV.pdf)  / [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AH70aAXjD25jwKBaS182ZDRBK-mhWmnZ1G7IOJfI99ZS020zvDvRVSGI3dDaB7SG3_gMASMQsnU9fxbpJELnfzMlV9lJ12A0ySaRjK6h6JSH&user=mdUv8wcAAAAJ) / [Email](mailto:sathar@cs.stonybrook.edu)</p>
 
 
 &nbsp;
