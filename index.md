@@ -28,6 +28,18 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 # Publications
 
+<img align="left" src="/images/HeadCraft/teaser.png" height="183px" width="277px">
+ &nbsp; &nbsp; [HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs](https://arxiv.org/abs/2312.14140)<br/>
+ &nbsp; &nbsp;  Artem Sevastopolsky, Philip Grassal, Simon Giebenhain, ShahRukh Athar, Luisa Verdoliva, Matthias Nießner<br/>
+
+ 
+ &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2312.14140){: .btn} [arXiv](https://arxiv.org/abs/2312.14140){: .btn} [Project Page](https://seva100.github.io/headcraft){: .btn}  
+
+
+<br/><br/><br/>
+<hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
+<br/>
+
 <img align="left" src="/images/CoDyNeRF/teaser.png" height="183px" width="277px">
  &nbsp; &nbsp; [Controllable Dynamic Appearance for Neural 3D Portraits](http://arxiv.org/abs/2309.11009)<br/>
  &nbsp; &nbsp;  ShahRukh Athar,  Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, Dimitris Samaras<br/>
@@ -39,6 +51,22 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <br/><br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
 <br/>
+
+
+<img align="left" src="/images/LipNeRF/teaser.png" height="183px" width="277px">
+ &nbsp; &nbsp; [LipNeRF: What is the right feature space to lip-sync a NeRF?](http://arxiv.org/abs/2309.11009)<br/>
+ &nbsp; &nbsp;  Aggelina Chatziagapi, ShahRukh Athar, Abhinav Jain, Rohith MV, Vimal Bhat, Dimitris Samaras<br/>
+ &nbsp; &nbsp; *17th IEEE International Conference on Automatic Face and Gesture Recognition*<br/> 
+ &nbsp; &nbsp; *(FG 2023)* <br/> 
+ 
+ 
+ &nbsp; &nbsp;  [Paper](https://www.amazon.science/publications/lipnerf-what-is-the-right-feature-space-to-lip-sync-a-nerf){: .btn}  [Project Page](https://aggelinacha.github.io/LipNeRF/){: .btn}  
+
+
+<br/><br/><br/>
+<hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
+<br/>
+
 
 <img align="left" src="/images/RigNeRF/teaser.png" height="183px" width="277px">
  &nbsp; &nbsp; [RigNeRF: Fully Controllable Neural 3D Portraits](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html)<br/>
@@ -56,7 +84,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp;  Aggelina Chatziagapi\*, ShahRukh Athar\*, Francesc Moreno-Noguer, Dimitris Samaras<br/>
  &nbsp; &nbsp; *International Conference on 3D Vision (3DV), 2021*<br/> 
  
- &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2108.05465){: .btn}
+ &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2108.05465){: .btn} [Project Page](https://aggelinacha.github.io/SIDER/){: .btn}
 
 <br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
