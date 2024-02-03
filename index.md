@@ -32,7 +32,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  &nbsp; &nbsp;  Alfredo Rivero*, ShahRukh Athar*,  Zhixin Shu, Dimitris Samaras<br/>
 
  
- &nbsp; &nbsp;  [Paper](http://arxiv.org/abs/2309.11009){: .btn} [arXiv](http://arxiv.org/abs/2309.11009){: .btn} [Project Page](http://shahrukhathar.github.io/2023/08/22/CoDyNeRF.html){: .btn}  
+ &nbsp; &nbsp;  [Paper](http://arxiv.org/abs/2309.11009){: .btn} [arXiv](http://arxiv.org/abs/2309.11009){: .btn} [Project Page](http://shahrukhathar.github.io/2023/08/22/Rig3DGS.html){: .btn}  
 
 
 <br/><br/><br/>
