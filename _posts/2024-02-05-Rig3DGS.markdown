@@ -7,8 +7,8 @@ author: Alfredo Rivero*, ShahRukh Athar*, Zhixin Shu and Dimitris Samaras
   <title>Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos</title>
 </head>
 <p>
-<a href="https://www.linkedin.com/in/alfredo-rivero-b75455168/" target="_blank">Alfredo Rivero\*</a>,
-<a href="http://shahrukhathar.github.io/" target="_blank">ShahRukh Athar\*</a>,
+<a href="https://www.linkedin.com/in/alfredo-rivero-b75455168/" target="_blank">Alfredo Rivero*</a>,
+<a href="http://shahrukhathar.github.io/" target="_blank">ShahRukh Athar*</a>,
 <a href="https://zhixinshu.github.io/" target="_blank">Zhixin Shu</a>  and
 <a href="https://www3.cs.stonybrook.edu/~samaras/" target="_blank">Dimitris Samaras</a> 
 </p>
