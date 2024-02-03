@@ -29,7 +29,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/Rig3DGS/teaser.png" height="183px" width="277px">
  &nbsp; &nbsp; [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](http://arxiv.org/abs/2309.11009)<br/>
- &nbsp; &nbsp;  Alfredo Rivero*, ShahRukh Athar*,  Zhixin Shu, Dimitris Samaras<br/>
+ &nbsp; &nbsp;  Alfredo Rivero\*, ShahRukh Athar\*,  Zhixin Shu, Dimitris Samaras<br/>
 
  
  &nbsp; &nbsp;  [Paper](http://arxiv.org/abs/2309.11009){: .btn} [arXiv](http://arxiv.org/abs/2309.11009){: .btn} [Project Page](http://shahrukhathar.github.io/2023/08/22/Rig3DGS.html){: .btn}  
