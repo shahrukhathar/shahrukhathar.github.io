@@ -24,12 +24,6 @@ author: Alfredo Rivero*, ShahRukh Athar*, Zhixin Shu and Dimitris Samaras
   </a>
 </div>
 
-<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/RigNeRF/RigNeRF-Video-captions.mp4" poster="/videos/RigNeRF/Thumbnail.png" controls>
-  This is fallback content to display for user agents that do not support the video tag.
-</video>
-</div>
-
 <br>
 <div align="center">
   <br>
