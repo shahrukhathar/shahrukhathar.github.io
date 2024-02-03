@@ -1,0 +1,95 @@
+---
+layout: post
+title: 'Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos'
+author: Alfredo Rivero*, ShahRukh Athar*, Zhixin Shu and Dimitris Samaras
+---
+<head>
+  <title>Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos</title>
+</head>
+<p>
+<a href="https://www.linkedin.com/in/alfredo-rivero-b75455168/" target="_blank">Alfredo Rivero*</a>,
+<a href="http://shahrukhathar.github.io/" target="_blank">ShahRukh Athar*</a>,
+<a href="https://zhixinshu.github.io/" target="_blank">Zhixin Shu</a>  and
+<a href="https://www3.cs.stonybrook.edu/~samaras/" target="_blank">Dimitris Samaras</a> 
+</p>
+<br>
+<br>
+
+<div align="center">
+  <a href="http://arxiv.org/abs/2206.06481">
+    <figure style="display:inline-block;">
+      <img height="100" width="78" src="/images/RigNeRF/paper-thumb.png">
+      <figcaption>Paper</figcaption>
+  </figure>
+  </a>
+</div>
+
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/RigNeRF/RigNeRF-Video-captions.mp4" poster="/videos/RigNeRF/Thumbnail.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+
+<br>
+<div align="center">
+  <br>
+  <p style="font-size:17px"><i><b>TL;DR </b> Rig3DGS rigs 3D Gaussian Splatting to enable the creation of reanimatable portrait videos with control over facial expressions, head-pose and viewing direction from monocular video captures.</i></p>
+  <br>
+  <br>
+</div>
+
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Abstract</h1>
+</div>
+
+Creating controllable 3D human portraits from casual smartphone videos is highly desirable due to their immense value in AR/VR applications. The recent development of 3D Gaussian Splatting (3DGS) has shown improvements in rendering quality and training efficiency. However, the challenge remains in accurately modeling and disentangling head movements and facial expressions from a single-view capture to achieve high-quality renderings. In this paper, we introduce \MethodName to address this challenge. We represent the entire scene, including the dynamic subject, using a set of 3D Gaussians in a canonical space. Using a set of control signals, such as head pose and  expressions, we transform them to the 3D space with learned deformations to generate the desired rendering. Our key innovation is a carefully designed deformation method which is guided by a learnable prior derived from a 3D morphable model. This approach is highly efficient in training and effective in controlling facial expressions, head positions, and view synthesis across various captures. We demonstrate the effectiveness of our learned deformation through extensive quantitative and qualitative experiments.
+
+
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Some Results</h1>
+</div>
+Below we show reanimation results across different subjects.
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/Rig3DGS/Subj_6_v2.mp4" poster="/videos/Rig3DGS/Subj_6_v2.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/Rig3DGS/Subj_2_v2.mp4" poster="/videos/Rig3DGS/Subj_2_v2.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/Rig3DGS/Subj_4_v2.mp4" poster="/videos/Rig3DGS/Subj_4_v2.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/Rig3DGS/Subj_5_v2.mp4" poster="/videos/Rig3DGS/Subj_5_v2.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/Rig3DGS/Subj_3_nvs.mp4" poster="/videos/Rig3DGS/Subj_3_nvs.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Citation</h1>
+</div>
+
+```
+@inproceedings{rivero2024rig3dgs,
+  title={Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos},
+  author={Rivero, Alfredo and Athar, ShahRukh and Shu, Zhixin and Samaras, Dimitris},
+  
+}
+```
