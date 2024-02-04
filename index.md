@@ -5,7 +5,7 @@ does_not_need_title: true
 permalink: /
 ---
 <img align="left" src="/images/IMG_2922.jpg" height="195px" width="186px" >
-&nbsp; &nbsp; **ShahRukh Athar**<br/>
+&nbsp; &nbsp;<span style="font-size:1.5em;">ShahRukh Athar</span><br/>
 &nbsp; &nbsp; Ph.D. Student<br/>
 &nbsp; &nbsp; [Department of Computer Science](https://www.cs.stonybrook.edu/)<br/>
 &nbsp; &nbsp; [Stony Brook University](https://www.stonybrook.edu/)<br>
