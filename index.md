@@ -29,7 +29,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/Rig3DGS/teaser.png" height="143px" width="277px">
  &nbsp; &nbsp; [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](http://arxiv.org/abs/2309.11009)<br/>
- &nbsp; &nbsp;  Alfredo Rivero\*, ShahRukh Athar\*,  Zhixin Shu, Dimitris Samaras<br/>
+ &nbsp; &nbsp;  Alfredo Rivero\*, **ShahRukh Athar**\*,  Zhixin Shu, Dimitris Samaras<br/>
 
  
  &nbsp; &nbsp;  [Paper](http://arxiv.org/abs/2309.11009){: .btn} [arXiv](http://arxiv.org/abs/2309.11009){: .btn} [Project Page](http://shahrukhathar.github.io/2024/02/05/Rig3DGS.html){: .btn}  
@@ -41,7 +41,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/HeadCraft/teaser.png" height="183px" width="183px">
  &nbsp; &nbsp; &nbsp; &nbsp; [HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs](https://arxiv.org/abs/2312.14140)<br/>
- &nbsp; &nbsp;  &nbsp; &nbsp; Artem Sevastopolsky, Philip Grassal, Simon Giebenhain, ShahRukh Athar, Luisa Verdoliva, Matthias Nießner<br/>
+ &nbsp; &nbsp;  &nbsp; &nbsp; Artem Sevastopolsky, Philip Grassal, Simon Giebenhain, **ShahRukh Athar**, Luisa Verdoliva, Matthias Nießner<br/>
 
  
  &nbsp; &nbsp; &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2312.14140){: .btn} [arXiv](https://arxiv.org/abs/2312.14140){: .btn} [Project Page](https://seva100.github.io/headcraft){: .btn}  
@@ -53,7 +53,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/CoDyNeRF/teaser.png" height="183px" width="277px">
  &nbsp; &nbsp; [Controllable Dynamic Appearance for Neural 3D Portraits](http://arxiv.org/abs/2309.11009)<br/>
- &nbsp; &nbsp;  ShahRukh Athar,  Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, Dimitris Samaras<br/>
+ &nbsp; &nbsp;  **ShahRukh Athar**,  Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, Dimitris Samaras<br/>
 
  
  &nbsp; &nbsp;  [Paper](http://arxiv.org/abs/2309.11009){: .btn} [arXiv](http://arxiv.org/abs/2309.11009){: .btn} [Project Page](http://shahrukhathar.github.io/2023/08/22/CoDyNeRF.html){: .btn}  
@@ -66,7 +66,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/LipNeRF/teaser.png" height="183px" width="277px">
  &nbsp; &nbsp; [LipNeRF: What is the right feature space to lip-sync a NeRF?](http://arxiv.org/abs/2309.11009)<br/>
- &nbsp; &nbsp;  Aggelina Chatziagapi, ShahRukh Athar, Abhinav Jain, Rohith MV, Vimal Bhat, Dimitris Samaras<br/>
+ &nbsp; &nbsp;  Aggelina Chatziagapi, **ShahRukh Athar**, Abhinav Jain, Rohith MV, Vimal Bhat, Dimitris Samaras<br/>
  &nbsp; &nbsp; *17th IEEE International Conference on Automatic Face and Gesture Recognition*<br/> 
  &nbsp; &nbsp; *(FG 2023)* <br/> 
  
@@ -81,7 +81,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/RigNeRF/teaser.png" height="183px" width="277px">
  &nbsp; &nbsp; [RigNeRF: Fully Controllable Neural 3D Portraits](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html)<br/>
- &nbsp; &nbsp;  ShahRukh Athar, Zexiang Xu, Kalyan Sunkavalli, Eli Shechtman, Zhixin Shu<br/>
+ &nbsp; &nbsp;  **ShahRukh Athar**, Zexiang Xu, Kalyan Sunkavalli, Eli Shechtman, Zhixin Shu<br/>
  &nbsp; &nbsp; *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022*<br/> 
  
  &nbsp; &nbsp;  [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.html){: .btn} [arXiv](http://arxiv.org/abs/2206.06481){: .btn} [Project Page](http://shahrukhathar.github.io/2022/06/06/RigNeRF.html){: .btn}  
@@ -92,7 +92,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/SIDER/teaser.png" height="131px" width="277px">
  &nbsp; &nbsp; [SIDER: Single-Image Neural Optimization for Facial Geometric Detail Recovery](https://arxiv.org/abs/2108.05465)<br/>
- &nbsp; &nbsp;  Aggelina Chatziagapi\*, ShahRukh Athar\*, Francesc Moreno-Noguer, Dimitris Samaras<br/>
+ &nbsp; &nbsp;  Aggelina Chatziagapi\*, **ShahRukh Athar**\*, Francesc Moreno-Noguer, Dimitris Samaras<br/>
  &nbsp; &nbsp; *International Conference on 3D Vision (3DV), 2021*<br/> 
  
  &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2108.05465){: .btn} [Project Page](https://aggelinacha.github.io/SIDER/){: .btn}
@@ -103,7 +103,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/FLAMEinNeRF/teaser.png" height="131px" width="277px">
  &nbsp; &nbsp; [FLAME-in-NeRF: Neural control of Radiance Fields for Free View Face Animation](https://arxiv.org/abs/2108.04913)<br/>
- &nbsp; &nbsp;  ShahRukh Athar, Zhixin Shu, Dimitris Samaras<br/>
+ &nbsp; &nbsp;  **ShahRukh Athar**, Zhixin Shu, Dimitris Samaras<br/>
  &nbsp; &nbsp; *17th IEEE International Conference on Automatic Face and Gesture Recognition*<br/> 
  &nbsp; &nbsp; *(FG 2023)* <br/> 
  
@@ -115,7 +115,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/FaceDet3D-TeaserWhite_v15_enmask.png" height="131px" width="277px">
  &nbsp; &nbsp; [FaceDet3D: Facial Expressions with 3D Geometric Detail Prediction](https://arxiv.org/abs/2012.07999)<br/>
- &nbsp; &nbsp;  ShahRukh Athar, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samaras<br/>
+ &nbsp; &nbsp;  **ShahRukh Athar**, Albert Pumarola, Francesc Moreno-Noguer, Dimitris Samaras<br/>
  &nbsp; &nbsp; *arXiv:2012.07999*<br/> 
  
  &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2012.07999){: .btn} [Project Page](http://shahrukhathar.github.io/2020/12/14/FaceDet3D.html){: .btn} 
@@ -126,7 +126,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/VarTransLArch.png" height="110px" width="277px">
  &nbsp; &nbsp; [Variational Transfer Learning for Fine-grained Few-shot Visual Recognition](https://arxiv.org/abs/2010.03255)<br/>
- &nbsp; &nbsp;  Jingyi Xu, Hieu Le, Mingzhen Huang, ShahRukh Athar, Dimitris Samaras<br/>
+ &nbsp; &nbsp;  Jingyi Xu, Hieu Le, Mingzhen Huang, **ShahRukh Athar**, Dimitris Samaras<br/>
  &nbsp; &nbsp; *ICCV 2021*<br/> 
  
  &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2010.03255){: .btn} 
@@ -138,7 +138,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/defgan.png" height="223px" width="277px">
  &nbsp; &nbsp; [Self-Supervised Deformation Modeling for Facial Expression Editing](https://arxiv.org/abs/1911.00735)<br/>
- &nbsp; &nbsp; ShahRukh Athar, Zhixin Shu, Dimitris Samaras<br/>
+ &nbsp; &nbsp; **ShahRukh Athar**, Zhixin Shu, Dimitris Samaras<br/>
  &nbsp; &nbsp; *15th IEEE International Conference on Automatic Face and Gesture Recognition*<br/> 
  &nbsp; &nbsp; *(FG 2020)* <br/>
  
@@ -150,7 +150,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/Teaser_LCM.png" height="136px" width="277px">
  &nbsp; &nbsp; [Latent Convolutional Models](http://shahrukhathar.github.io/2018/06/06/LCM.html)<br/>
- &nbsp; &nbsp; ShahRukh Athar, Evgeny Burnaev, Victor Lempitsky<br/>
+ &nbsp; &nbsp; **ShahRukh Athar**, Evgeny Burnaev, Victor Lempitsky<br/>
  &nbsp; &nbsp; *International Conference on Learning Representations (ICLR), 2019*<br/>
  
  &nbsp; &nbsp;  [Paper](https://openreview.net/pdf?id=HJGciiR5Y7){: .btn} [Project Page](http://shahrukhathar.github.io/2018/06/06/LCM.html){: .btn} [Code](https://github.com/srxdev0619/Latent_Convolutional_Models){: .btn}
@@ -161,7 +161,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/Teaser_WeakSup.png" height="137px" width="277px">
  &nbsp; &nbsp; [Weakly supervised fluid filled region localization in retinal OCT scans](https://ieeexplore.ieee.org/abstract/document/8363849)<br/>
- &nbsp; &nbsp; ShahRukh Athar, Abhishek Vahadane, Ameya Joshi, Tathagato Rai Dastidar<br/>
+ &nbsp; &nbsp; **ShahRukh Athar**, Abhishek Vahadane, Ameya Joshi, Tathagato Rai Dastidar<br/>
  &nbsp; &nbsp; *International Symposium on Biomedical Imaging (ISBI), 2018*<br/>
  
  &nbsp; &nbsp;  [Paper](https://www.researchgate.net/profile/Tathagato_Rai_Dastidar/publication/324653449_WEAKLY_SUPERVISED_FLUID_FILLED_REGION_LOCALIZATION_IN_RETINAL_OCT_SCANS/links/5ad9e323aca272fdaf82596d/WEAKLY-SUPERVISED-FLUID-FILLED-REGION-LOCALIZATION-IN-RETINAL-OCT-SCANS.pdf){: .btn}
