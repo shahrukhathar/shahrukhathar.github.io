@@ -27,7 +27,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 # Publications
 
-<img align="left" src="/images/Rig3DGS/teaser.png" height="183px" width="277px">
+<img align="left" src="/images/Rig3DGS/teaser.png" height="143px" width="277px">
  &nbsp; &nbsp; [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](http://arxiv.org/abs/2309.11009)<br/>
  &nbsp; &nbsp;  Alfredo Rivero\*, ShahRukh Athar\*,  Zhixin Shu, Dimitris Samaras<br/>
 
@@ -39,7 +39,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
 <br/>
 
-<img align="left" src="/images/HeadCraft/teaser.png" height="183px" width="277px">
+<img align="left" src="/images/HeadCraft/teaser.png" height="277px" width="277px">
  &nbsp; &nbsp; [HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs](https://arxiv.org/abs/2312.14140)<br/>
  &nbsp; &nbsp;  Artem Sevastopolsky, Philip Grassal, Simon Giebenhain, ShahRukh Athar, Luisa Verdoliva, Matthias Nießner<br/>
 
