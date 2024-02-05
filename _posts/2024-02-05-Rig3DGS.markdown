@@ -27,7 +27,7 @@ author: Alfredo Rivero*, ShahRukh Athar*, Zhixin Shu and Dimitris Samaras
 <br>
 <div align="center">
   <br>
-  <p style="font-size:17px"><i><b>TL;DR </b> Rig3DGS rigs 3D Gaussian Splatting to enable the creation of reanimatable portrait videos with control over facial expressions, head-pose and viewing direction from monocular video captures.</i></p>
+  <p style="font-size:17px"><i><b>TL;DR </b> From monocular video captures, Rig3DGS rigs 3D Gaussian Splatting to enable the creation of reanimatable portrait videos with control over facial expressions, head-pose and viewing direction.</i></p>
   <br>
   <br>
 </div>
@@ -46,7 +46,7 @@ Creating controllable 3D human portraits from casual smartphone videos is highly
 <br>
 <h1 style="text-align: center">Some Results</h1>
 </div>
-Below we show reanimation results across different subjects.
+Below we show reanimation results across different subjects with changing facial expressions, head-pose and viewing directions
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
 <video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/Rig3DGS/Subj_6_v2.mp4" poster="/videos/Rig3DGS/Subj_6_v2.png" controls>
   This is fallback content to display for user agents that do not support the video tag.
