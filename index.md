@@ -54,9 +54,9 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <br/>
 
 <img align="left" src="/images/CoDyNeRF/teaser.png" height="183px" width="277px">
- &nbsp; &nbsp; [Controllable Dynamic Appearance for Neural 3D Portraits](http://arxiv.org/abs/2309.11009)<br/>
- &nbsp; &nbsp;  **ShahRukh Athar**,  Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, Dimitris Samaras<br/>
- &nbsp; &nbsp; *International Conference on 3D Vision (3DV), 2024*<br/> 
+ <span style="position: relative; left: 110px"> [Controllable Dynamic Appearance for Neural 3D Portraits](http://arxiv.org/abs/2309.11009)</span><br/>
+ <span style="position: relative; left: 110px">**ShahRukh Athar**,  Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, Dimitris Samaras</span><br/>
+ <span style="position: relative; left: 110px"> *International Conference on 3D Vision (3DV), 2024*</span><br/> 
  
  &nbsp; &nbsp;  [Paper](http://arxiv.org/abs/2309.11009){: .btn} [arXiv](http://arxiv.org/abs/2309.11009){: .btn} [Project Page](http://shahrukhathar.github.io/2023/08/22/CoDyNeRF.html){: .btn}  
 
