@@ -68,7 +68,8 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 <img align="left" src="/images/LipNeRF/teaser.png" height="183px" width="277px">
  &nbsp; &nbsp; [LipNeRF: What is the right feature space to lip-sync a NeRF?](http://arxiv.org/abs/2309.11009)<br/>
- &nbsp; &nbsp;  Aggelina Chatziagapi, **ShahRukh Athar**, Abhinav Jain, Rohith MV, Vimal Bhat, Dimitris Samaras<br/>
+ &nbsp; &nbsp;  Aggelina Chatziagapi, **ShahRukh Athar**, Abhinav Jain, Rohith MV, <br/>
+ &nbsp; &nbsp;  Vimal Bhat, Dimitris Samaras<br/>
  &nbsp; &nbsp; *17th IEEE International Conference on Automatic Face and Gesture Recognition*<br/> 
  &nbsp; &nbsp; *(FG 2023)* <br/> 
  
