@@ -40,8 +40,8 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <br/>
 
 <img align="left" src="/images/HeadCraft/teaser.png" height="183px" width="183px">
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs](https://arxiv.org/abs/2312.14140)<br/>
- &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Artem Sevastopolsky, Philip Grassal, Simon Giebenhain, **ShahRukh Athar**, Luisa Verdoliva, Matthias Nießner<br/>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs](https://arxiv.org/abs/2312.14140)<br/>
+ &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Artem Sevastopolsky, Philip Grassal, Simon Giebenhain, **ShahRukh Athar**, Luisa Verdoliva, Matthias Nießner<br/>
 
  
  &nbsp; &nbsp; &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2312.14140){: .btn} [arXiv](https://arxiv.org/abs/2312.14140){: .btn} [Project Page](https://seva100.github.io/headcraft){: .btn}  
@@ -54,7 +54,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <img align="left" src="/images/CoDyNeRF/teaser.png" height="183px" width="277px">
  &nbsp; &nbsp; [Controllable Dynamic Appearance for Neural 3D Portraits](http://arxiv.org/abs/2309.11009)<br/>
  &nbsp; &nbsp;  **ShahRukh Athar**,  Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, Dimitris Samaras<br/>
-
+ &nbsp; &nbsp; *International Conference on 3D Vision (3DV), 2024*<br/> 
  
  &nbsp; &nbsp;  [Paper](http://arxiv.org/abs/2309.11009){: .btn} [arXiv](http://arxiv.org/abs/2309.11009){: .btn} [Project Page](http://shahrukhathar.github.io/2023/08/22/CoDyNeRF.html){: .btn}  
 
