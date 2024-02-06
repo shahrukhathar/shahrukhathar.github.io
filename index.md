@@ -40,8 +40,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <br/>
 
 <img align="left" src="/images/HeadCraft/teaser.png" height="183px" width="183px">
-<div left=277px>
-
+<div style="position: absolute; left: 277px">
 
  [HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs](https://arxiv.org/abs/2312.14140)<br/>
  Artem Sevastopolsky, Philip Grassal, Simon Giebenhain, **ShahRukh Athar**, Luisa Verdoliva, Matthias Nießner<br/>
@@ -49,8 +48,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  
  
  [Paper](https://arxiv.org/abs/2312.14140){: .btn} [arXiv](https://arxiv.org/abs/2312.14140){: .btn} [Project Page](https://seva100.github.io/headcraft){: .btn}  
-
-
+ 
 </div>
 
 <br/><br/><br/>
