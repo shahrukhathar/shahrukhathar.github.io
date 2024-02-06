@@ -47,7 +47,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
  
  
- <span style="position: relative; left: 277px; height: 183px"> [Paper](https://arxiv.org/abs/2312.14140){: .btn} [arXiv](https://arxiv.org/abs/2312.14140){: .btn} [Project Page](https://seva100.github.io/headcraft){: .btn} </span>
+ <span style="position: relative; left: 110px; height: 183px"> [Paper](https://arxiv.org/abs/2312.14140){: .btn} [arXiv](https://arxiv.org/abs/2312.14140){: .btn} [Project Page](https://seva100.github.io/headcraft){: .btn} </span>
 
 <br/><br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
