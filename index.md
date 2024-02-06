@@ -43,8 +43,8 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 
 <span style="position: relative; left: 110px; height: 183px"> [HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs](https://arxiv.org/abs/2312.14140)</span><br/>
-<span style="position: relative; left: 110px; height: 183px">Artem Sevastopolsky, Philip Grassal, Simon Giebenhain, **ShahRukh Athar**, Luisa Verdoliva, Matthias Nießner</span><br/>
-
+<span style="position: relative; left: 110px; height: 183px">Artem Sevastopolsky, Philip Grassal, Simon Giebenhain, **ShahRukh Athar**,/span><br/>
+<span style="position: relative; left: 110px; height: 183px"> Luisa Verdoliva, Matthias Nießner</span><br/>
  
  
  <span style="position: relative; left: 110px; height: 183px"> [Paper](https://arxiv.org/abs/2312.14140){: .btn} [arXiv](https://arxiv.org/abs/2312.14140){: .btn} [Project Page](https://seva100.github.io/headcraft){: .btn} </span>
@@ -54,9 +54,9 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <br/>
 
 <img align="left" src="/images/CoDyNeRF/teaser.png" height="183px" width="277px">
- <span style="position: relative; left: 110px"> [Controllable Dynamic Appearance for Neural 3D Portraits](http://arxiv.org/abs/2309.11009)</span><br/>
- <span style="position: relative; left: 110px">**ShahRukh Athar**,  Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, Dimitris Samaras</span><br/>
- <span style="position: relative; left: 110px"> *International Conference on 3D Vision (3DV), 2024*</span><br/> 
+ <span style="position: relative; left: 10px"> [Controllable Dynamic Appearance for Neural 3D Portraits](http://arxiv.org/abs/2309.11009)</span><br/>
+ <span style="position: relative; left: 10px">**ShahRukh Athar**,  Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, Dimitris Samaras</span><br/>
+ <span style="position: relative; left: 10px"> *International Conference on 3D Vision (3DV), 2024*</span><br/> 
  
  &nbsp; &nbsp;  [Paper](http://arxiv.org/abs/2309.11009){: .btn} [arXiv](http://arxiv.org/abs/2309.11009){: .btn} [Project Page](http://shahrukhathar.github.io/2023/08/22/CoDyNeRF.html){: .btn}  
 
