@@ -18,7 +18,7 @@ author: Alfredo Rivero*, ShahRukh Athar*, Zhixin Shu and Dimitris Samaras
 <div align="center">
   <a href="http://arxiv.org/abs/2206.06481">
     <figure style="display:inline-block;">
-      <img height="100" width="78" src="/images/RigNeRF/paper-thumb.png">
+      <img height="100" width="78" src="/images/Rig3DGS/paper-thumb.png">
       <figcaption>Paper</figcaption>
   </figure>
   </a>
