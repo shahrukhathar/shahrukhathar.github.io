@@ -16,7 +16,7 @@ author: Alfredo Rivero*, ShahRukh Athar*, Zhixin Shu and Dimitris Samaras
 <br>
 
 <div align="center">
-  <a href="http://arxiv.org/abs/2206.06481">
+  <a href="https://arxiv.org/abs/2402.03723">
     <figure style="display:inline-block;">
       <img height="100" width="78" src="/images/Rig3DGS/paper-thumb.png">
       <figcaption>Paper</figcaption>
@@ -85,9 +85,12 @@ Below we show reanimation results across different subjects with changing facial
 </div>
 
 ```
-@inproceedings{rivero2024rig3dgs,
-  title={Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos},
-  author={Rivero, Alfredo and Athar, ShahRukh and Shu, Zhixin and Samaras, Dimitris},
-  
+@misc{rivero2024rig3dgs,
+      title={Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos}, 
+      author={Alfredo Rivero and ShahRukh Athar and Zhixin Shu and Dimitris Samaras},
+      year={2024},
+      eprint={2402.03723},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
