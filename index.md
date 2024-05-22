@@ -26,7 +26,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 
 
 # Publications
-
+<!--
 <img align="left" src="/images/Rig3DGS/teaser.png" height="143px" width="277px">
  &nbsp; &nbsp; [Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos](http://arxiv.org/abs/2309.11009)<br/>
  &nbsp; &nbsp;  Alfredo Rivero\*, **ShahRukh Athar**\*,  Zhixin Shu, Dimitris Samaras<br/>
@@ -52,7 +52,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <br/><br/><br/>
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
 <br/>
-
+--->
 <img align="left" src="/images/CoDyNeRF/teaser.png" height="183px" width="277px">
  <span style="position: relative; left: 10px"> [Controllable Dynamic Appearance for Neural 3D Portraits](http://arxiv.org/abs/2309.11009)</span><br/>
  <span style="position: relative; left: 10px">**ShahRukh Athar**,  Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, Dimitris Samaras</span><br/>
