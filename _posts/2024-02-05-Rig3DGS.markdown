@@ -69,11 +69,6 @@ Below we show reanimation results across different subjects with changing facial
 </video>
 </div>
 <div class="embed-container" style="position:relative;padding-bottom:41.56%;">
-<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/Rig3DGS/Subj_3_nvs.mp4" poster="/videos/Rig3DGS/Subj_3_nvs.png" controls>
-  This is fallback content to display for user agents that do not support the video tag.
-</video>
-</div>
-<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
 <video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/Rig3DGS/Subj_Vu_2_nvs.mp4" poster="/videos/Rig3DGS/Subj_Vu_2_nvs.png" controls>
   This is fallback content to display for user agents that do not support the video tag.
 </video>
