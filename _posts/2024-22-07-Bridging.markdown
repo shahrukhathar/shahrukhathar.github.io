@@ -1,0 +1,73 @@
+---
+layout: post
+title: 'Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture'
+author: ShahRukh Athar, Shunsuke Saito, Zhengyu Yang, Stanislav Pidhorskyi and Chen Cao
+---
+<head>
+  <title>Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture</title>
+</head>
+<p>
+<a href="http://shahrukhathar.github.io/" target="_blank">ShahRukh Athar</a>,
+<a href="https://shunsukesaito.github.io" target="_blank">Shunsuke Saito</a>,
+<a href="https://zhengyuyang.com/#contact" target="_blank">Zhengyu Yang</a>,
+<a href="https://pidhorskyi.com" target="_blank">Stanislav Pidhorskyi</a> and
+<a href="https://sites.google.com/site/zjucaochen/home" target="_blank">Chen Cao</a>,
+</p>
+<br>
+<br>
+
+<div align="center">
+  <a href="https://arxiv.org/abs/2402.03723">
+    <figure style="display:inline-block;">
+      <img height="100" width="78" src="/images/Rig3DGS/paper-thumb.png">
+      <figcaption>Paper</figcaption>
+  </figure>
+  </a>
+</div>
+
+<br>
+<div align="center">
+  <br>
+  <p style="font-size:17px"><i><b>TL;DR </b> From monocular video captures, we create Studio-like face texture maps with high resolution facial details and studio lighting. </i></p>
+  <br>
+  <br>
+</div>
+
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Abstract</h1>
+</div>
+
+Creating photorealistic avatars for individuals traditionally involves extensive capture sessions with complex and expensive studio devices like the LightStage system. While recent strides in neural representations have enabled the generation of photorealistic and animatable 3D avatars from quick phone scans, they have the capture-time lighting baked-in, lack facial details and have missing regions in areas such as the back of the ears. Thus, they lag in quality compared to studio-captured avatars.
+In this paper, we propose a method that bridges this gap by generating studio-like illuminated texture maps from short, monocular phone captures. We do this by parameterizing the phone texture maps using the $W^+$ space of a StyleGAN2, enabling near-perfect reconstruction. Then, we finetune a StyleGAN2 by sampling in the $W^+$ parameterized space using a very small set of studio-captured textures as an adversarial training signal. To further enhance the realism and accuracy of facial details, we super-resolve the output of the StyleGAN2 using carefully designed diffusion model that is guided by image gradients of the phone-captured texture map.
+Once trained, our method excels at producing studio-like facial texture maps from casual monocular smartphone videos. Demonstrating its capabilities, we showcase the generation of photorealistic, uniformly lit, complete avatars from monocular phone captures.
+
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Video Results</h1>
+</div>
+Below we show an overview of the method and some results
+
+<div class="embed-container" style="position:relative;padding-bottom:41.56%;">
+<video  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="/videos/Bridging/Bridging_the_gap.mp4" poster="/videos/Bridging/Bridging_the_gap.png" controls>
+  This is fallback content to display for user agents that do not support the video tag.
+</video>
+</div>
+<br>
+<div align="center">
+<br>
+<h1 style="text-align: center">Citation</h1>
+</div>
+
+```
+@misc{rivero2024rig3dgs,
+      title={Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos}, 
+      author={Alfredo Rivero and ShahRukh Athar and Zhixin Shu and Dimitris Samaras},
+      year={2024},
+      eprint={2402.03723},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```

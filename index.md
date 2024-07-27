@@ -53,6 +53,18 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
 <br/>
 --->
+<img align="left" src="/images/Bridging/Teaser.png" height="90px" width="277px">
+ <span style="position: relative; left: 10px"> [Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture](http://arxiv.org/abs/2309.11009)</span><br/>
+ <span style="position: relative; left: 10px">**ShahRukh Athar**, Shunsuke Saito, Zhengyu Yang, Stanislav Pidhorskyi and Chen Cao</span><br/>
+ <span style="position: relative; left: 10px"> *European Conference on Computer Vision (ECCV), 2024*</span><br/> 
+ 
+ &nbsp; &nbsp;  [Paper](http://arxiv.org/abs/2309.11009){: .btn} [arXiv](http://arxiv.org/abs/2309.11009){: .btn} [Project Page](http://shahrukhathar.github.io/2023/08/22/CoDyNeRF.html){: .btn}  
+
+
+<br/><br/><br/>
+<hr style="height:1px;border:none;color:#D3D3D3;background-color:#D3D3D3">
+<br/>
+
 <img align="left" src="/images/CoDyNeRF/teaser.png" height="183px" width="277px">
  <span style="position: relative; left: 10px"> [Controllable Dynamic Appearance for Neural 3D Portraits](http://arxiv.org/abs/2309.11009)</span><br/>
  <span style="position: relative; left: 10px">**ShahRukh Athar**,  Zhixin Shu, Zexiang Xu, Fujun Luan, Sai Bi, Kalyan Sunkavalli, Dimitris Samaras</span><br/>
