@@ -11,7 +11,7 @@ author: ShahRukh Athar, Shunsuke Saito, Zhengyu Yang, Stanislav Pidhorskyi and C
 <a href="https://shunsukesaito.github.io" target="_blank">Shunsuke Saito</a>,
 <a href="https://zhengyuyang.com/#contact" target="_blank">Zhengyu Yang</a>,
 <a href="https://pidhorskyi.com" target="_blank">Stanislav Pidhorskyi</a> and
-<a href="https://sites.google.com/site/zjucaochen/home" target="_blank">Chen Cao</a>,
+<a href="https://sites.google.com/site/zjucaochen/home" target="_blank">Chen Cao</a>
 </p>
 <br>
 <br>
