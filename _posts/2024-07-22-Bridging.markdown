@@ -23,7 +23,7 @@ author: ShahRukh Athar, Shunsuke Saito, Zhengyu Yang, Stanislav Pidhorskyi and C
       <figcaption>Paper</figcaption>
   </figure>
   </a>
-  
+  &nbsp;&nbsp;
   <a href="/assets/Bridging/Suppmat.pdf">
     <figure style="display:inline-block;">
       <img height="100" width="78" src="/images/Bridging/suppmat-thumb.png">
