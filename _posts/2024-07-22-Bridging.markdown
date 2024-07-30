@@ -17,10 +17,19 @@ author: ShahRukh Athar, Shunsuke Saito, Zhengyu Yang, Stanislav Pidhorskyi and C
 <br>
 
 <div align="center">
-  <a href="https://arxiv.org/abs/2402.03723">
+  <a href="https://arxiv.org/abs/2407.19593">
     <figure style="display:inline-block;">
-      <img height="100" width="78" src="/images/Rig3DGS/paper-thumb.png">
+      <img height="100" width="78" src="/images/Bridging/paper-thumb.png">
       <figcaption>Paper</figcaption>
+  </figure>
+  </a>
+</div>
+
+<div align="center">
+  <a href="/assets/Bridging/Suppmat.pdf">
+    <figure style="display:inline-block;">
+      <img height="100" width="78" src="/images/Bridging/suppmat-thumb.png">
+      <figcaption>Supplementary</figcaption>
   </figure>
   </a>
 </div>

@@ -58,7 +58,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
  <span style="position: relative; left: 10px">**ShahRukh Athar**, Shunsuke Saito, Zhengyu Yang, Stanislav Pidhorskyi and Chen Cao</span><br/>
  <span style="position: relative; left: 10px"> *European Conference on Computer Vision (ECCV), 2024*</span><br/> 
  
- &nbsp; &nbsp;  [Paper](http://arxiv.org/abs/2309.11009){: .btn} [arXiv](http://arxiv.org/abs/2309.11009){: .btn} [Project Page](http://shahrukhathar.github.io/2024/07/22/Bridging.html){: .btn}  
+ &nbsp; &nbsp;  [Paper](https://arxiv.org/abs/2407.19593){: .btn} [arXiv](https://arxiv.org/abs/2407.19593){: .btn} [Project Page](http://shahrukhathar.github.io/2024/07/22/Bridging.html){: .btn}  
 
 
 <br/><br/>
