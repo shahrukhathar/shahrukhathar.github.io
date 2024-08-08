@@ -69,12 +69,10 @@ Below we show an overview of the method and some results
 </div>
 
 ```
-@misc{rivero2024rig3dgs,
-      title={Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos}, 
-      author={Alfredo Rivero and ShahRukh Athar and Zhixin Shu and Dimitris Samaras},
-      year={2024},
-      eprint={2402.03723},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{athar2024bridging,
+  title={Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture},
+  author={Athar, ShahRukh and Saito, Shunsuke and Yang, Zhengyu and Pidhorsky, Stanislav and Cao, Chen},
+  journal={arXiv preprint arXiv:2407.19593},
+  year={2024}
 }
 ```
