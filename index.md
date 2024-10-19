@@ -54,7 +54,7 @@ I am a Ph.D. student at [Stony Brook University](https://www.cs.stonybrook.edu/)
 <br/>
 --->
 <img align="left" src="/images/Bridging/Teaser.png" height="90px" width="277px">
- <span style="position: relative; left: 10px"> [Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture](http://arxiv.org/abs/2309.11009)</span><br/>
+ <span style="position: relative; left: 10px"> [Bridging the Gap: Studio-like Avatar Creation from a Monocular Phone Capture](https://arxiv.org/abs/2407.19593)</span><br/>
  <span style="position: relative; left: 10px">**ShahRukh Athar**, Shunsuke Saito, Zhengyu Yang, Stanislav Pidhorskyi and Chen Cao</span><br/>
  <span style="position: relative; left: 10px"> *European Conference on Computer Vision (ECCV), 2024, Oral*</span><br/> 
  
